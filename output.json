@@ -1,0 +1,1801 @@
+// Found 30 posts for keyword: deepseek
+// Found 33 posts for keyword: job market 2025
+
+{
+  "posts": [
+    "chatgpt",
+    "deepseek",
+    {
+      "postDetails": {
+        "postContent": "Presenting DeepSeek simple with a bit of technical depth.\n\nFinally, I finished my post on DeepSeek, the Chinese LLM that drove the AI community by storm.\n\nHere is the post link published on my blog on GitHub:\n\nhttps://lnkd.in/d-WwwzpM\n\n\nI tried to cover various perspectives:\nWhat is so particular about \nhashtag\n#deepseek compared to other models?\nHow RL plays its role making it a landmark step in AI progress?\nWhat is MoE (Mixture of Experts) architecture?\nWhat is the standard pipeline of developing and LLM and what is the key change that DeepSeek introduced?\nWhat are those versions of DeepSeek: R1, R1-Zero, and V3? What is the story behind them?\nWhat are the innovations (mostly introduced in the V3 model) other than the RL introduced by this model?\n\nI hope you will enjoy reading it. It is a bit technical. So having a bit of experience in the field of LLMs will make reading it more fun.\n\nI want to end this post by giving special credit to other great works that really helped me during the writing of this article. To mention some:\nJay Alammar post: The illustrated deepseek.\nMaarten Grootendorst YouTube videos on the MoE architecture.\nThis great podcast: https://lnkd.in/d7TPvngn by Mohamed Rashad and Youssef Hosni \nThis great series of articles: https://lnkd.in/dzuUG8fR\nThis post on MoE by Hugging Face team: https://lnkd.in/dVKgkKxm.",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-presented-simple-maged-saeed-nkwif?trackingId=foDN3hPuRSud6%2Bjnby7bBg%3D%3D",
+        "postTimestamp": "5h • Edited • \n \n5 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQEN_RLqC17SbA/article-cover_image-shrink_600_2000/B4DZT.y7QJHYAY-/0/1739441551483?e=1744848000&v=beta&t=ich6VwOo-BDHbLWkM2ZYhsa4wlgAXwJf7ax9mOkTCW4"
+        ],
+        "likesCount": 69,
+        "commentsCount": 12,
+        "repostCount": 4,
+        "hashtags": ["hashtag\n#deepseek"],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Maged Saeed\nMaged Saeed\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/maged-saeed-2948591b4?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADH1s1AB48K22pq77AaE3QKHJMt6cDP7qUo",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQE0IzIF91DR0g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1645140978340?e=1744848000&v=beta&t=m6VPK0SvKRVP6L7fwU6a1aJZhKiYevURUnhbJJVvKqk",
+        "authorHeadline": "AI Engineer at SDAIA-KFUPM Joint Research Center - KFUPM\nAI Engineer at SDAIA-KFUPM Joint Research Center - KFUPM"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "A brilliant allegory that breaks down complex ML concepts through the lens of a castle kitchen. Love how this story by Hari Balaji makes technical concepts like MoE, RoPE, and attention mechanisms so accessible and engaging! 👨‍🍳✨",
+        "postUrl": "https://www.linkedin.com/pulse/tale-deepseek-hari-balaji-wv5qc?trackingId=Wt8JTR42Ti2LpUGOs5xpsA%3D%3D",
+        "postTimestamp": "23h • \n \n23 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQE5A-vaTolFpg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1739300430363?e=1744848000&v=beta&t=o-hOPJEia1DPwmj4sBXbAG39h3apq1tU2-RqonrOlc8"
+        ],
+        "likesCount": 2,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#largelanguagemodels",
+          "hashtag\n#deepseek",
+          "hashtag\n#mixtureofexperts",
+          "hashtag\n#rope",
+          "hashtag\n#mla",
+          "hashtag\n#multiheadlatentattention",
+          "hashtag\n#auxillaryloss",
+          "hashtag\n#bias"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Siddhi R.\nSiddhi R.\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/siddhirawool?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAPDu0QBoHIcLdjE-doc_mO6veoHJKRtvZM",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGfXMKLFKVMHg/profile-displayphoto-shrink_100_100/B56ZOmUR04GoAU-/0/1733662155081?e=1744848000&v=beta&t=r715kJtJx35cC-57HpB5FNhwW81Sgi5bVtATDV-CUTM",
+        "authorHeadline": "Product Leader | User-Centered Experiences\nProduct Leader | User-Centered Experiences"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Discover how DeepSeek revolutionizes sales insights by helping businesses identify high-value customers with precision. It enhances data analysis, streamlines lead generation, and empowers sales teams with actionable intelligence for better decision-making. For more details, please read our full article.\nhashtag\n#AI \nhashtag\n#SalesInsights \nhashtag\n#DeepSeek \nhashtag\n#CustomerTargeting \nhashtag\n#KatharosInfinity",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-sales-insights-finding-right-customers-katharos-infinity-tjwve?trackingId=sf0NMJ2kSNqDrMoorK7TAA%3D%3D",
+        "postTimestamp": "11h • \n \n11 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4E12AQHnWNA7EnOedA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1739162312012?e=1744848000&v=beta&t=fqBu0rci7Ay95qKS_Ct7eI5dm0vSo_mQRNLDydjofZE"
+        ],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#SalesInsights",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#CustomerTargeting",
+          "hashtag\n#KatharosInfinity",
+          "hashtag\n#AI",
+          "hashtag\n#SalesInsights",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#CustomerTargeting",
+          "hashtag\n#KatharosInfinity"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Harshada Mahajan\nHarshada Mahajan\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/harshadam?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFXKc84BhZuXnozYTdivRupmLMGqyjvMMfs",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGOcC0EMQgEiw/profile-displayphoto-shrink_100_100/B4EZQWO5ZhHsAU-/0/1735539792213?e=1744848000&v=beta&t=Y2n6rYCOjJlMOtOXsHqXhYNHEHzOHsS_yDnndC9o7Eo",
+        "authorHeadline": "Business Growth | Business Strategy | Research and Report\nBusiness Growth | Business Strategy | Research and Report"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "DeepSeek Debates: Chinese Leadership On Cost, True Training Cost, Closed Model Margin Impacts H100 Pricing Soaring, Subsidized Inference Pricing, Export Controls, MLA\n\nIn a February 2, 2025 article for SemiAnalysis, authors Dylan Patel, AJ Kourabi, Doug O'Laughlin, and Reyk Knuhtsen provide an in-depth analysis of DeepSeek, a Chinese AI company that has recently captured global attention.\n\nThe authors detail how DeepSeek, which spun off from the Chinese hedge fund High-Flyer in May 2023, has emerged as a significant player in the AI landscape. With approximately 150 employees and substantial computing resources including 50,000 Hopper GPUs, the company has made remarkable technical strides. Their infrastructure represents a significant investment, with server capital expenditure estimated at $1.6 billion and operating costs of $944 million.\n\nAccording to the analysis, DeepSeek's recent prominence stems from several technical innovations, particularly their Multi-head Latent Attention (MLA) architecture, which reduces memory requirements by 93.3%. The company has also successfully implemented an efficient Mixture of Experts model architecture and utilized Multi-Token Prediction at unprecedented scales.\n\nThe authors challenge the widely circulated claim that DeepSeek V3 cost only $6 million to train, explaining that this figure represents merely the GPU costs for pre-training and excludes crucial expenses such as R&D, infrastructure, and operational costs. They position DeepSeek's achievements within a broader industry trend where algorithmic improvements enable similar capabilities with decreasing compute requirements.\n\nIn comparing DeepSeek's performance to competitors, the authors note that while DeepSeek R1 matches OpenAI's o1 in reasoning capabilities, it doesn't consistently lead across all metrics. They also highlight that Google's Gemini Flash 2.0 Thinking achieves comparable or superior results at lower costs, though it has received less attention.\n\nThe article concludes by examining potential industry implications, suggesting that DeepSeek may be subsidizing inference costs to gain market share. The authors also raise concerns about DeepSeek's use of training data from OpenAI's models, suggesting this could lead to future policy changes regarding model distillation.\n\nThis comprehensive analysis provides important context for understanding DeepSeek's rapid rise in the AI landscape and its potential impact on the industry's future development.\n\nLink: https://loom.ly/PXUme8c. Credit: this article was originally posted by Rich Miller.",
+        "postUrl": "",
+        "postTimestamp": "now • \n \nJust now",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Brent J.\nBrent J.\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/brent-johnsonwmallc?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAADwXLcBmV1z5swc_cZAFmtl-LXhxFYjDh8",
+        "profilePictureUrl": "",
+        "authorHeadline": "Ex: Deloitte & Merrill Lynch. World-class Investment Research. Author: Harvesting Financial Prosperity: Professional Investor. Research energy & electricity, focus on hyper-scale data centers & their electricity needs.\nEx: Deloitte & Merrill Lynch. World-class Investment Research. Author: Harvesting Financial Prosperity: Professional Investor. Research energy & electricity, focus on hyper-scale data centers & their electricity needs."
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "The recent release of a new \nhashtag\n#LargeLanguageModel by the Chinese \nhashtag\n#AI company, \nhashtag\n#DeepSeek, shocked the US tech industry.\n\nOn the LSE United States Centre blog, Yujia He (University of Kentucky) examines US research and development policy under the second \nhashtag\n#Trump administration, writing there is a significant disconnect between rhetoric and policy.\n\nFederal funding freezes and reduced funding for the National Science Foundation could have dire long-term consequences for research and international cooperation including on AI.",
+        "postUrl": "",
+        "postTimestamp": "now • \n \nJust now",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#LargeLanguageModel",
+          "hashtag\n#AI",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#Trump"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "LSE Blogs\nLSE Blogs",
+        "authorUrl": "https://www.linkedin.com/company/lse-blogs/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF-WgbkxPdP9Q/company-logo_100_100/company-logo_100_100/0/1688462068201?e=1747267200&v=beta&t=v_FjVdBuURGxxk2pV6DEeQIvtO7qFJhYhOknqvopj_s",
+        "authorHeadline": "3,525 followers\n3,525 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "La scorsa settimana, da un post Instagram dell’ottimo Matteo Flora sulla censura operata dall’AI Deepseek, è nato un bellissimo scambio di esperienze. Qualcuno tra i commentatori, tanti per la verità, faceva notare quanto, diversamente dall’AI cinese, \"l’occidentale\" ChatGPT fosse equilibrata nelle risposte. Certo, meglio risposte ampie e argomentate che la censura, direbbe il “filosofo” Max Catalano. Avevo alcuni dubbi allora, però, e ne ho di più oggi. \n\nLa domanda cruciale è sempre la stessa introdotta da Matteo: quanto sono affidabili le opinioni generate dall’AI su temi politici e sociali? Oggi, la domanda non è più teorica: e un nuovo studio pubblicato su Science Direct ci aiuta in una prima risposta, fornendoci i dati concreti sull’influenza politica dei chatbot.\n\nE cosa ti scoprono, i ricercatori di University of East Anglia, Getulio Vargas Foundation e Insper? Che non c'è solo la censura esplicita dell'AI cinese: anche ChatGPT orienta il dibattito politico. Attraverso un'analisi sistematica di risposte testuali e immagini generate, il team ha svelato processi radicati che potrebbero plasmare l'opinione pubblica. \n\nNon è un caso isolato, e non è una questione di “Oriente contro Occidente” o di sistemi più o meno censori: ogni approccio alla moderazione dei contenuti AI porta con sé i suoi rischi e i suoi pregiudizi. È bene che lo sappiate, per non cadere facili prede di qualche IA \"buona\", percepita in modo diverso da altre IA \"cattivone\".\n\n\nhashtag\n#Intelligenza \nhashtag\n#Manipolazione \nhashtag\n#Democrazia \nhashtag\n#Dibattito \nhashtag\n#Tecnologia",
+        "postUrl": "",
+        "postTimestamp": "now • \n \nJust now",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 1,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#Intelligenza",
+          "hashtag\n#Manipolazione",
+          "hashtag\n#Democrazia",
+          "hashtag\n#Dibattito",
+          "hashtag\n#Tecnologia"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Gianluca Riccio\nGianluca Riccio\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/gianlucariccio?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABQ8r8BIYtf20e9x3RqLQT66VfwJAU98vQ",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQG_AkTc7BjKEQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648430557736?e=1744848000&v=beta&t=vKXEtIbBoyAT2367W9VY56gXxRPEUa-bofb16uEpgnc",
+        "authorHeadline": "Journalist / Creative and Founder @Melancia\nJournalist / Creative and Founder @Melancia"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 ChatGPT vs. DeepSeek: The Future of AI Assistants – Who Wins? 🤖⚡\nThe AI landscape is evolving fast, and two giants are making waves: ChatGPT and DeepSeek! But which one truly delivers the best AI experience? Let’s break it down:\n\n🔹 ChatGPT (OpenAI) – A powerful, widely adopted AI assistant known for its versatility, natural conversations, and deep knowledge base. Great for content, marketing, coding, and more!\n\n🔹 DeepSeek (New Contender) – A cutting-edge AI designed to push the boundaries of reasoning, problem-solving, and contextual understanding. Claimed to outperform in complex tasks!\n\n💡 Marketers, entrepreneurs, and AI enthusiasts—your opinion matters! Vote below and let’s see who’s leading the AI revolution:",
+        "postUrl": "",
+        "postTimestamp": "8h • Edited • \n \n8 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Rajesh Narsapuram\nRajesh Narsapuram\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/rajesh15?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAZgg3cBZOyWcXRx3UKD3tfPO00ZVE1hIBY",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFIqX3HkoUNlA/profile-displayphoto-shrink_100_100/B56ZTveEjMGoAU-/0/1739184426072?e=1744848000&v=beta&t=znv8MG2HHmsjcAjPhlE5YEbx1MsnZhK5lJ-Z0Xaa8iI",
+        "authorHeadline": "Digital Marketing Specialist | Driving Data Driven Technologies | Expert in SEO & Social Media | Lead Generation\nDigital Marketing Specialist | Driving Data Driven Technologies | Expert in SEO & Social Media | Lead Generation"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🤖 Busting the Top 5 Myths About DeepSeek – What’s True? What’s Not?\n\nDeepSeek has been making waves in the AI world, but with the hype come some wild claims. Let’s see if you can tell fact from fiction! Drop your guesses in the comments👇\n\n1️⃣ DeepSeek is just a marketing gimmick to boost Moonshot AI’s stock.\n2️⃣ It’s just a side project for Moonshot AI, nothing serious.\n3️⃣ DeepSeek performs poorly because its app is slow and buggy.\n4️⃣ DeepSeek is China’s first truly world-class AI model.\n5️⃣ DeepSeek has already surpassed OpenAI.\n\nHint: I did some digging (even in Chinese 👀), and the truth might surprise you. I’ll reveal the answers in the comments soon!\n\n\nhashtag\n#AI \nhashtag\n#DeepSeek \nhashtag\n#TechMyths \nhashtag\n#Innovation \nhashtag\n#CyberSecurity \nhashtag\n#AIFacts",
+        "postUrl": "https://www.linkedin.com/pulse/top-10-false-claims-deepseek-part-2-jun-seki-zy7xf?trackingId=JdfpG17GTYKNhJAAJBKJkQ%3D%3D",
+        "postTimestamp": "8h • \n \n8 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQGP74zz9Kij3w/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1739172694328?e=1744848000&v=beta&t=vrN8UkJX49QZTPYDbEPWQ_7cG5rpb0dModCwhPBYU6U"
+        ],
+        "likesCount": 3,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#TechMyths",
+          "hashtag\n#Innovation",
+          "hashtag\n#CyberSecurity",
+          "hashtag\n#AIFacts"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Jun Seki\nJun Seki\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/junseki?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAN270gB49oJJ0M8VXrELe7SjGerLv0EZNo",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHyyndcxGjD7w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1635159635370?e=1744848000&v=beta&t=LowPMzXkynehSpdGtboMYBJPs7oCRep6tMaDWzq9HuE",
+        "authorHeadline": "🇬🇧CTO / EIR @ Antler | Building Secure AI Solutions to Safeguard Business Data and Drive Innovation\n🇬🇧CTO / EIR @ Antler | Building Secure AI Solutions to Safeguard Business Data and Drive Innovation"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "DeepSeek just built one of the world’s most powerful AI models by rethinking how people can drive innovation to outperform their deep-pocketed competitors:\n\n • They embraced their constraints, proving creativity thrives under limitations.\n • They built a team of diverse thinkers, valuing untraditional and fresh perspectives over traditional AI pedigrees.\n • They chose open over proprietary platforms, proving that global collaboration accelerates progress.\n\nThis isn’t just an AI success story—it’s a blueprint for innovation that any leader can apply. When we design transformations around people first, that’s when technology creates real impact.\n\nI break it down in my latest article below. How are you applying these principles in your work?",
+        "postUrl": "https://www.linkedin.com/pulse/deepseeks-innovation-playbook-3-timeless-lessons-all-people-bingaman-wf78e?trackingId=pLqKynJUSECZ1sjKGQ1yvA%3D%3D",
+        "postTimestamp": "1h • \n \n1 hour ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4E12AQFuhLxEVnYjsA/article-cover_image-shrink_423_752/B4EZT_rpDwHcAY-/0/1739456420444?e=1744848000&v=beta&t=qEkiANpUL6QjELSk8xO7q0HFF_qlyKWx-SYGdxqnfFY"
+        ],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Peter Bingaman\nPeter Bingaman\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/peterbingaman?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAGLc3IBVqtOAbwLNQb0Ng4D1tIxyEnDCvY",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEV1_GvJUGH4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517734593014?e=1744848000&v=beta&t=-XG0g0D57JbBEGiFdHOFldsKmGCF-xX3xRv3sOd4P38",
+        "authorHeadline": "B2B CMO | Technology Marketing Executive | Enterprise Software | Fintech | Healthtech | HRTech | Professional Services\nB2B CMO | Technology Marketing Executive | Enterprise Software | Fintech | Healthtech | HRTech | Professional Services"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 What Are The Differences Between DeepSeek and ChatGPT?\nWhat kind of help has it brought to your work?\nFeel free to leave your thoughts in the comments~\n\nhashtag\n#ChatGPT \nhashtag\n#DeepSeek \nhashtag\n#PCB \nhashtag\n#PCBA \nhashtag\n#SMD \nhashtag\n#ChenghePCBA",
+        "postUrl": "https://www.linkedin.com/pulse/what-differences-between-deepseek-chatgpt-leta-liu-vuezc?trackingId=z3hCs7w%2BTgee1Wi%2BH4yQpQ%3D%3D",
+        "postTimestamp": "8h • \n \n8 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQFQwNeZYGpSqA/article-cover_image-shrink_600_2000/B56ZT9_kg6HoAY-/0/1739428088904?e=1744848000&v=beta&t=qDyFF5QbfcqaeE-CvecGpg8MPT6mRJgpp5JycWgNl9U"
+        ],
+        "likesCount": 2,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#ChatGPT",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#PCB",
+          "hashtag\n#PCBA",
+          "hashtag\n#SMD",
+          "hashtag\n#ChenghePCBA"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Leta L.\nLeta L.\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/leta-l-367598200?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADNYDP8BthEzIKbl_is_cBpqCZFRXI9Yv3c",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQGZ9LBeJws9dQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1606869824719?e=1744848000&v=beta&t=gOsuKMCxg4gqRVfPZnuIw1BvIY4BfCJW05zq_Rs8c3M",
+        "authorHeadline": "Global Sales Engineer|One-Stop Service for PCB|PCBA|Electronic Components Sourcing|Committed to the best quality and best service\nGlobal Sales Engineer|One-Stop Service for PCB|PCBA|Electronic Components Sourcing|Committed to the best quality and best service"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Yet another perspective of DeepSeek with a view from Silicon Valley and implications for Japan.",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-quants-glen-evan-xjyic?trackingId=A02RvaxWT0qWGGN9mxE8VQ%3D%3D",
+        "postTimestamp": "14h • \n \n14 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQFddeOC6RLFMg/article-cover_image-shrink_423_752/B56ZT8XFkNGUAU-/0/1739400701037?e=1744848000&v=beta&t=xhefoYFbrlLYvjSvij6lVtN3GCKP_3cDmcfmOjRlsbg"
+        ],
+        "likesCount": 2,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Glen Evan\nGlen Evan\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/mentorglen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACd9N4BD4EaA_XCGEzBS-OZPE5YFmHuuKc",
+        "profilePictureUrl": "",
+        "authorHeadline": "Senior Solutions Architect at Fujitsu Research America\nSenior Solutions Architect at Fujitsu Research America"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Why Building Your Own AI Makes No Sense 🚀\n\nAt some point, every IT team thinks: \"Let’s build our own AI application!\" – but does that really make sense? ❌\n\n🔹 The build vs. buy debate has evolved. DeepSeek proves that smaller, well-trained models can compete with the big ones – but they still require significant expertise, data, and resources.\n🔹 Customization beats building from scratch. Leveraging and fine-tuning existing AI solutions is faster, more cost-efficient, and delivers immediate business value.\n🔹 Industry expertise matters. AI isn’t just about engineering – without deep domain knowledge and real-world data, it won’t drive meaningful impact.\n🔹 AI is never \"done.\" Continuous training, updates, and monitoring are essential – AI is a long-term investment, not a one-time project.\n\n👉 Instead of reinventing the wheel, companies should adopt and refine proven AI solutions – it’s the fastest way to real impact.\n\nDaniel Stepa Sjoerd IJedema Max Ortega Beth R. Ashley Bewick Tim Burge Tas Hirani Assaf Melochna Shahar Chen Shai Dekel Doug Wilmot\n \n\nhashtag\n#ServiceExcellence \nhashtag\n#AIforService \nhashtag\n#ServiceTrends \nhashtag\n#ServiceTransformation \nhashtag\n#ServiceLeaders \nhashtag\n#FutureOfService \nhashtag\n#AIinFieldService \nhashtag\n#SkillsGap \nhashtag\n#AITrends",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-build-vs-buy-debate-what-means-ai-2025-assaf-melochna-a6jof?trackingId=o6WKfyQLS5iQcnWF2JFAJw%3D%3D",
+        "postTimestamp": "16h • \n \n16 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQF5YPeqemUKkw/article-cover_image-shrink_423_752/B4DZT7qHU7HAAU-/0/1739388910681?e=1744848000&v=beta&t=8PYD5p7w9aIABA_GvjaA-yWuXvVIpnDwbcAMJRY3Nv4"
+        ],
+        "likesCount": 5,
+        "commentsCount": 1,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#ServiceExcellence",
+          "hashtag\n#AIforService",
+          "hashtag\n#ServiceTrends",
+          "hashtag\n#ServiceTransformation",
+          "hashtag\n#ServiceLeaders",
+          "hashtag\n#FutureOfService",
+          "hashtag\n#AIinFieldService",
+          "hashtag\n#SkillsGap",
+          "hashtag\n#AITrends",
+          "hashtag\n#AI",
+          "hashtag\n#Innovation",
+          "hashtag\n#TechStrategy",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#AIInvestment",
+          "hashtag\n#Efficiency"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Melanie Abt\nMelanie Abt\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/melanie-abt-7b5a01104?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABp9QzkBK_R_6UyySZfyo9W8OSVVpgWIUDM",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQF_USe04bcExg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1731503386885?e=1740067200&v=beta&t=ICdStgiVuT44ZdMwN5OLefOgqMUfgXEGpUqFSXN1vck",
+        "authorHeadline": "Passionate about People & Innovation\nPassionate about People & Innovation"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "𝗗𝗲𝗲𝗽𝘀𝗲𝗲𝗸 𝗩𝘀. 𝗖𝗵𝗮𝘁𝗚𝗣𝗧: 𝗧𝗵𝗲 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗔𝗜 𝗦𝗵𝗼𝘄𝗱𝗼𝘄𝗻! ⚡🤖\n\nAI is evolving rapidly, and two powerful contenders—𝗗𝗲𝗲𝗽𝘀𝗲𝗲𝗸 𝗮𝗻𝗱 𝗖𝗵𝗮𝘁𝗚𝗣𝗧—are leading the charge! 🚀 But how do they differ? Which one excels in 𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗿𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴, 𝗮𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵, 𝗮𝗻𝗱 𝗻𝗮𝘁𝘂𝗿𝗮𝗹 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝘀?\n\nIn this carousel, I break down their 𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗺𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀, 𝗰𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀, 𝗮𝗻𝗱 𝗶𝗱𝗲𝗮𝗹 𝘂𝘀𝗲 𝗰𝗮𝘀𝗲𝘀 to help you understand their strengths. 💡\n\n👉 Swipe through to see which AI aligns best with your needs!\n🔗 Let’s discuss—𝗪𝗵𝗶𝗰𝗵 𝗼𝗻𝗲 𝗱𝗼 𝘆𝗼𝘂 𝗽𝗿𝗲𝗳𝗲𝗿? Drop your thoughts in the comments! ⬇️ \n\n\nhashtag\n#AI \nhashtag\n#ArtificialIntelligence \nhashtag\n#MachineLearning \nhashtag\n#Deepseek \nhashtag\n#ChatGPT \nhashtag\n#TechShowdown \nhashtag\n#AIVsAI \nhashtag\n#FutureOfAI \nhashtag\n#Innovation \nhashtag\n#DataScience \nhashtag\n#AIComparison \nhashtag\n#AIRevolution \nhashtag\n#TechTrends \nhashtag\n#Automation \nhashtag\n#AIResearch \nhashtag\n#SmartTech \nhashtag\n#AIExplained \nhashtag\n#AIModels",
+        "postUrl": "",
+        "postTimestamp": "2h • \n \n2 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/embeds/native-document.html?li_theme=light"
+        ],
+        "likesCount": 5,
+        "commentsCount": 1,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#ArtificialIntelligence",
+          "hashtag\n#MachineLearning",
+          "hashtag\n#Deepseek",
+          "hashtag\n#ChatGPT",
+          "hashtag\n#TechShowdown",
+          "hashtag\n#AIVsAI",
+          "hashtag\n#FutureOfAI",
+          "hashtag\n#Innovation",
+          "hashtag\n#DataScience",
+          "hashtag\n#AIComparison",
+          "hashtag\n#AIRevolution",
+          "hashtag\n#TechTrends",
+          "hashtag\n#Automation",
+          "hashtag\n#AIResearch",
+          "hashtag\n#SmartTech",
+          "hashtag\n#AIExplained",
+          "hashtag\n#AIModels"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Govind Khandeparker\nGovind Khandeparker\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/govind-khandeparker-885466228?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADkFQ2UBLBJP5f3BZLBTH6nZ3ByW8cx2JZs",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQH6EnSIFCBoIA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1702108176542?e=1744848000&v=beta&t=k18XCs48I5EKKlq5tDlFv4f55-VtiZUemSWpPOJ_DG8",
+        "authorHeadline": "CA Finalist| I.M.Com'26 (GU)| Content Creator\nCA Finalist| I.M.Com'26 (GU)| Content Creator"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "https://lnkd.in/gJePS_Tq\n\nThis blog tries to look into one of the latest developments in the LLM space.\n\nTrying to write a blog on DeepSeek helped me understand the technology better. I had a cynicist view of such advancements, purely because of the business decisions made since ChatGPT's widespread prevalence.\n\nBut after reading the paper released by DeepSeek, I have gradually shifted to the optimist side of the equation.\n\nI tried capturing everything in this blog--even the economics of this technology. I consider this blog to be my mindset shifter. [But, at the same time, we must be alarmed because AI is becoming more human.]\n\nSee it for yourself here...",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-new-llm-market-seeking-unknown-nandhainfotech-ikp4e?trackingId=b5g71SLQTz6iyB88k2RqMQ%3D%3D",
+        "postTimestamp": "15h • Edited • \n \n15 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4E12AQHV8Yzt6CY63Q/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1739343655607?e=1744848000&v=beta&t=bnNFaUpmkN8u-eGLcYPVbdcreW8nsXc854yXxYlAh0U"
+        ],
+        "likesCount": 3,
+        "commentsCount": 1,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Naveen M\nNaveen M\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/m-naveen1510?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACsA9XkBKNqrjLQpSkLUg3GgGWVyh265d9k",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5635AQFXGIgpIKc30Q/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1733723475408?e=1740067200&v=beta&t=YN4r5Sciibqc8xYyDtvat4qcMzumNjQavTnZHCeJVXI",
+        "authorHeadline": "Technical Content Writer | Content Writer/Editor | API Documentation Writer | Professional Transcriptionist\nTechnical Content Writer | Content Writer/Editor | API Documentation Writer | Professional Transcriptionist"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Innovation and Smart Thinking will triumph over sheer Size and Power. This has been proven by DeepSeek!\n\nMaintenance and Operations team can learn a lot from DeepSeek Emergence to Prominence in the world of Ai.\n\n\nhashtag\n#InnovationInM&O \nhashtag\n#EfficiencyMatters \nhashtag\n#CostEffectiveSolutions\n\nhashtag\n#SmartMaintenance \nhashtag\n#OperationalExcellence",
+        "postUrl": "https://www.linkedin.com/pulse/rise-deepseek-game-changer-ai-landscape-gabriel-fagade-cmrp-mnse-llvif?trackingId=ef8ulO9MS9aaJpklurk9ng%3D%3D",
+        "postTimestamp": "10h • \n \n10 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQG5i6GfU-2raw/article-cover_image-shrink_423_752/B56ZTwfHDyHsAU-/0/1739201481780?e=1744848000&v=beta&t=JwrFYMyeJ8oTLFWs9RyUFw0ybzL6Tdkijy8Loa979dg",
+          {},
+          {}
+        ],
+        "likesCount": 11,
+        "commentsCount": 4,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#InnovationInM",
+          "hashtag\n#EfficiencyMatters",
+          "hashtag\n#CostEffectiveSolutions",
+          "hashtag\n#SmartMaintenance",
+          "hashtag\n#OperationalExcellence"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Gabriel Fagade, CMRP, MNSE\nGabriel Fagade, CMRP, MNSE\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/gabrielfagade?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACsLFGwBR7uNrdwcP_mdZ3yyCqg-KrE6QmE",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHn5PO3Vk8xUQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1606854775243?e=1744848000&v=beta&t=yl1YQBH9Z91ZcKavzzZ05v5o1HfQauf3E4IVfqXUxSg",
+        "authorHeadline": "Maintenance Management || Operations Excellence || Maintenance Advisory || Coaching|| Experienced Engineer || Maintenance Strategy|| Asset Management\nMaintenance Management || Operations Excellence || Maintenance Advisory || Coaching|| Experienced Engineer || Maintenance Strategy|| Asset Management"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "ChatGPT vs. DeepSeek: Which One Feels Smarter? 🤖\n\nAI models are evolving fast, and two big names—OpenAI’s ChatGPT and DeepSeek—are making waves. But how do they really compare? Here’s my take after using both:\n\n💬 User Experience\n\nChatGPT feels smooth, engaging, and natural in conversations. It’s great for brainstorming, writing, and general Q&A.\nDeepSeek is more structured and precise, especially when it comes to logic and reasoning. But sometimes, it feels a bit rigid compared to ChatGPT.\n\n📚 Language & Understanding\n\nChatGPT excels in English and other languages, making it super versatile.\nDeepSeek is optimized for Chinese but is improving in multilingual support.\n\n🔢 Math & Logical Reasoning\n\nChatGPT does well in general problem-solving but sometimes struggles with complex math.\nDeepSeek prioritizes logical accuracy and mathematical reasoning, making it stronger in technical queries.\n\n🎨 Creativity vs. Precision\n\nIf you need creativity—like storytelling, idea generation, or content writing—ChatGPT wins.\nIf you need structured, factual, and precise answers, DeepSeek might be a better bet.\nBoth are impressive in their own ways, but it really comes down to what you need. Have you tried both? Which one feels more \"intelligent\" to you? Let's discuss! 👇\n\n\nhashtag\n#AI \nhashtag\n#ChatGPT \nhashtag\n#DeepSeek \nhashtag\n#ArtificialIntelligence \nhashtag\n#MachineLearning \nhashtag\n#UserExperience",
+        "postUrl": "",
+        "postTimestamp": "9h • \n \n9 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 4,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#ChatGPT",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#ArtificialIntelligence",
+          "hashtag\n#MachineLearning",
+          "hashtag\n#UserExperience"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Kushaghra Sharma\nKushaghra Sharma\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/kushaghra-sharma-976895187?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACwXUCoBp9RVSpn79VjDPAxiMXjmzT2TW08",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHi4irrBCyzpQ/profile-displayphoto-shrink_100_100/B56ZShN1epGUAU-/0/1737871546929?e=1744848000&v=beta&t=5WmNP9MJj316zyUj39QNIB8kOPdK_ulsqZ59TRttt3c",
+        "authorHeadline": "Software Development Engineer @ Siemens | Aspiring Machine Learning Engineer & Data Scientist | Passionate about Leveraging Data & Machine Learning for Innovation\nSoftware Development Engineer @ Siemens | Aspiring Machine Learning Engineer & Data Scientist | Passionate about Leveraging Data & Machine Learning for Innovation"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 🐋 DeepSeek Coding Assistant – Your Secure AI Coding Assistant! 🚀\n\nI created this AI Coding Assistant to keep my code safe—no more uploading to unknown servers! No more code breaches. 🔐\n\nBuilt with:\n✅ Streamlit – For an interactive UI\n✅ Ollama – Runs locally for full privacy\n✅ Deepseek – Powerful AI coding intelligence\n✅ Langchain – Enhances context & reasoning\n\n🎥 Watch this 2-min demo to see it in action! 🔥\n\nWith running deepseek r1 locally, you get real-time AI assistance without compromising security. Your code stays 100% private while you work smarter & faster.\n\n💬 Would you use a privacy-first AI coding assistant? Let’s discuss!\n\n🔹 \nhashtag\n#AI \nhashtag\n#CodingAssistant \nhashtag\n#PrivacyFirst \nhashtag\n#DeepSeek \nhashtag\n#Streamlit \nhashtag\n#Langchain \nhashtag\n#SecureAI \nhashtag\n#MachineLearning \nhashtag\n#Python",
+        "postUrl": "",
+        "postTimestamp": "13h • \n \n13 hours ago",
+        "postType": "video",
+        "mediaUrls": [],
+        "likesCount": 14,
+        "commentsCount": 4,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#CodingAssistant",
+          "hashtag\n#PrivacyFirst",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#Streamlit",
+          "hashtag\n#Langchain",
+          "hashtag\n#SecureAI",
+          "hashtag\n#MachineLearning",
+          "hashtag\n#Python"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Om Prakash Prajapat\nOm Prakash Prajapat\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/om-prakash-prajapat?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAhONXcBGR5ZLxOihy90wo2ZnyW5ccRTY5Q",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQG6u0lVzR_LHA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1706332385943?e=1744848000&v=beta&t=aa4qPW5jmfh0VNHOgrIudlSSUycT_YcVE4IPtXQ4ifQ",
+        "authorHeadline": "AI/ML Engineering on edge devices.\nAI/ML Engineering on edge devices."
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🔥 DeepSeek – A Serious Risk for Enterprises! 🔥\n\n🚨 Is your AI secure? Many businesses are adopting generative AI, but not all models are safe to use. A new Red Teaming Report reveals alarming vulnerabilities in DeepSeek-R1, making it far riskier than models like GPT-4o or Claude-3 Opus.\n\n⚠️ Key Risks Identified:\n• 💻 Insecure Code: 4x more likely to generate exploitable code than OpenAI’s o1.\n• 🎭 Biased AI Decisions: 3x more biased than Claude-3 Opus, posing compliance risks.\n• ☣️ CBRN Threats: Provides detailed information on hazardous content.\n• 💀 Toxic Language: 4.5x more likely to produce harmful content than GPT-4o.\n• 🕵️‍♂️ Jailbreak Vulnerabilities: Easily manipulated into generating illicit content.\n\n👉 What does this mean for enterprises? If AI is not properly vetted, it can expose companies to cybersecurity threats, legal consequences, and reputational damage.\n\n🔍 How can businesses stay safe? Read my in-depth analysis on why DeepSeek-R1 is a high-risk AI model and how to mitigate threats. ⬇️\n\n📌 Full article here below!\n\n💬 Do you trust generative AI in your business? Let’s discuss in the comments!\nhttps://lnkd.in/ds-KY5DN",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-real-threats-enterprises-eckhart-mehler-7d6df?trackingId=gqtnd2WsS966ZQIoL6Xf3w%3D%3D",
+        "postTimestamp": "37m • \n \n37 minutes ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQHWcuy4dGw0hw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1738740800301?e=1744848000&v=beta&t=IKcdwd7k0vhXoEtzyC-S43XklwlXhuiFbFl4ezTPdLw"
+        ],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Eckhart M.\nEckhart M.\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/blackopsadvisor?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAe7aEBFPFy855-B0lUtinwhy8jbtfd7BA",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGaQWsK2eghug/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711994291364?e=1744848000&v=beta&t=jSpHwzMHc4fU8TP6hkNh9k4-zp99TKpy5xH389d2vKU",
+        "authorHeadline": "Chief Information Security Officer | CISO | Cybersecurity Strategist | Cloud Security Expert | AI Security Engineer\nChief Information Security Officer | CISO | Cybersecurity Strategist | Cloud Security Expert | AI Security Engineer"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "No AI was hurt during the production of this article",
+        "postUrl": "https://www.linkedin.com/pulse/chatgpt-vs-deepseek-systecom-tzo8f?trackingId=KnJzo%2B0HQ9K0c3immmhG%2Fg%3D%3D",
+        "postTimestamp": "3h • \n \n3 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQFD10iioFna2A/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1738927105623?e=1744848000&v=beta&t=l3MWFGb4c51flJ4JJ4yUtuZuFFqEnEpucypkxYPgzCs"
+        ],
+        "likesCount": 3,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#Cybersecurity",
+          "hashtag\n#GenerativeAI",
+          "hashtag\n#ChatGPT",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#SysteCom",
+          "hashtag\n#AIFuture"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Marilena Kasteli\nMarilena Kasteli\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/marel-kast?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAClSdrIByDYebdcKXRd525JFztxBeL88dD4",
+        "profilePictureUrl": "",
+        "authorHeadline": "Technology Consultant at Systecom S.A.\nTechnology Consultant at Systecom S.A."
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "If you're looking to learn more about DeepSeek AI and how (and why) Microsoft is making the most of it, Eric's latest Memo has got everything you need to know! 🐳\n\nHe's also covered everything from Azure Data Studio to Microsoft Intune, and plenty more along the way...",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-data-studio-more-clouddirect-bqete?trackingId=sWjha1FXQg2OGtjyvEsH7Q%3D%3D",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQFSm4Uz3sPajw/article-cover_image-shrink_423_752/B56ZT8YybDHoAc-/0/1739401144609?e=1744848000&v=beta&t=LHXnqHLp9WMz_ZjCdBbHvodH0bYM1Wi85I-qLwZPL2E"
+        ],
+        "likesCount": 7,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Cloud Direct\nCloud Direct",
+        "authorUrl": "https://www.linkedin.com/company/clouddirect/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFqOP2A577EQw/company-logo_100_100/company-logo_100_100/0/1657119874025/clouddirect_logo?e=1747267200&v=beta&t=rOqZFxXulx_6eknlE8Na1SUEpRprcv6_icuJp5lgoks",
+        "authorHeadline": "33,970 followers\n33,970 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "When it comes to AI, business leaders need clarity, not buzzwords. Our team at dakAI Advisory & Services has just released a new article that does just that: \"DeepSeek R1: A Business Leader's Guide.\"\nThis isn't a deep dive into technical jargon. It's a high-level, strategic perspective on DeepSeek R1, the open-source LLM that's turning heads with its performance and cost-efficiency.\n\nWe break down:\n🔹 Why DeepSeek R1 matters for strategic decision-making\n🔹 Where it excels and where to be cautious\n🔹 How to approach ethical and security considerations\n\n\nhashtag\n#DeepSeek \nhashtag\n#AI \nhashtag\n#UAE",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-r1-business-leaders-guide-dakai-ai-f15le?trackingId=9XPK4kSgR8mqPIuJooQ2Sw%3D%3D",
+        "postTimestamp": "6h • Edited • \n \n6 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4E12AQGVBKMKNCfEFg/article-cover_image-shrink_423_752/B4EZT.dQSsH0AY-/0/1739435888194?e=1744848000&v=beta&t=aN9mKYv-SXiCDq1Xj-C1nzHomMDxsMC0rPQp7hTyXos"
+        ],
+        "likesCount": 6,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": ["hashtag\n#DeepSeek", "hashtag\n#AI", "hashtag\n#UAE"],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Aziz Lefilef\nAziz Lefilef\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/alefilef?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAkCVYBoPhD29vfnPnl6x07c2cUa5Qab9E",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHwpiPWTwsWHA/profile-displayphoto-shrink_100_100/B4EZO7WMXRGYAU-/0/1734014978188?e=1744848000&v=beta&t=-Iy8ftPPgS0oZtyggnmtOXTV1IwHjUADLgT7ozx6JN0",
+        "authorHeadline": "CEO @dakAI.ai | MBA, Business Strategy and Transformation\nCEO @dakAI.ai | MBA, Business Strategy and Transformation"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "𝗧𝗵𝗲𝗺𝗮𝘁𝗶𝗰 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗻𝗴 has never been for the faint of heart, and January’s turmoil in AI stocks was a reminder of just how unpredictable it can be. \n \n𝗗𝗲𝗲𝗽𝗦𝗲𝗲𝗸 upended market expectations with the launch of R1—an AI model rivalling OpenAI’s cutting-edge systems at a fraction of the cost. The knock-on effects were immediate: Nvidia saw a record-breaking drop in value of $589 billion in one day, forcing investors to reassess assumptions about the future economics of AI.\n \nAs history has shown—from the dot-com boom to biotech and beyond—hype-driven investing can be risky. While thematic funds have surged in popularity, the chances of picking the right theme 𝚊̲𝚗̲𝚍̲ the right fund 𝚊̲𝚗̲𝚍̲ at the right time are very low. Research suggests investors almost always get this wrong.\n \nAt PortfolioMetrix, we take a different approach—building resilient, diversified portfolios that withstand market cycles, rather than chasing the latest fad.\n \n🔍 Read our Investment Analyst Riccardo Peretti, CFA’s full analysis here 👇",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-lesson-thematic-investing-portfoliometrix-5zlhf?trackingId=4w%2FF2ta3QWKB6E4TGmFJow%3D%3D",
+        "postTimestamp": "6h • \n \n6 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQHZ-4KFXf2JKw/article-cover_image-shrink_423_752/B4DZT6WquLHkAY-/0/1739367034443?e=1744848000&v=beta&t=a-bWna9fvVd_4FoxMP9iz9xOBX1BojTAZa0UFnK55f0"
+        ],
+        "likesCount": 10,
+        "commentsCount": 1,
+        "repostCount": 1,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "PortfolioMetrix\nPortfolioMetrix",
+        "authorUrl": "https://www.linkedin.com/company/portfoliometrix/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFNs-y7CfF7Jg/company-logo_100_100/company-logo_100_100/0/1630514730670/portfoliometrix_logo?e=1747267200&v=beta&t=dcqLDATmqeLobvhJqdXrbL7Io_ocC81rLV2GersLnPM",
+        "authorHeadline": "5,101 followers\n5,101 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "𝐃𝐞𝐞𝐩𝐒𝐞𝐞𝐤: 𝐓𝐫𝐮𝐬𝐭 𝐢𝐧 𝐀𝐈 𝐌𝐨𝐝𝐞𝐥\n\n🚀 AI is skyrocketing as a global investment priority, reshaping industries and creating new opportunities. Big players like ChatGPT and Gemini continue to lead the charge, but now, more affordable options like DeepSeek are stepping into the spotlight. With its base model priced at $6M, the competition is heating up.\n\n💰 But as costs drop, new challenges arise—especially around data privacy and security. The question is: how do we ensure transparency and build trust in these AI models?\n\nCheck out MOHA lastest article to find out!!!\n------\n𝗠𝗢𝗛𝗔 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘: 𝗥𝗜𝗚𝗛𝗧 𝗣𝗘𝗢𝗣𝗟𝗘 - 𝗥𝗜𝗚𝗛𝗧 𝗧𝗜𝗠𝗘 - 𝗥𝗜𝗚𝗛𝗧 𝗤𝗨𝗔𝗟𝗜𝗧𝗬\n🌐 Visit us at: mohasoftware.com\n📮 Email: contact@mohasoftware.com\n☎️ Phone: (+84) 328 231 272",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-trust-ai-model-mohasoftware-jnude?trackingId=4y3Zod3nT4av9nDplnrPLg%3D%3D",
+        "postTimestamp": "14h • \n \n14 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4E12AQGmXzMN12Ma9g/article-cover_image-shrink_423_752/B4EZT0DihkHgAY-/0/1739261358476?e=1744848000&v=beta&t=WJNdJieNPSIyPqzml_elyz5xWCMKWAFjsZFSL0uYW-A"
+        ],
+        "likesCount": 2,
+        "commentsCount": 2,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "MOHA Software\nMOHA Software",
+        "authorUrl": "https://www.linkedin.com/company/mohasoftware/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHsnFEfnIzTrA/company-logo_100_100/company-logo_100_100/0/1658815745502/mohasoftware_logo?e=1747267200&v=beta&t=fenU-MqVAUiF_adCGDiCpsmt3DTMtnfUHq7A9BVlgWA",
+        "authorHeadline": "1,568 followers\n1,568 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "After OpenAI, DeepSeek AI now plans to take on NVIDIA's dominance?🤖\n\n🚨 DeepSeek’s ultra-affordable AI is a ticking time bomb—cutting costs at the expense of global tech standards and security!\n\nChina's chipmakers are pushing boundaries, but at what risk?\n\nFollow me for more insights 👉 Satyam Srivastava\n\n\nhashtag\n#AI \nhashtag\n#DeepSeek \nhashtag\n#AffordableAI \nhashtag\n#TechNews \nhashtag\n#GlobalTech \nhashtag\n#CyberSecurity \nhashtag\n#EthicalAI \nhashtag\n#Innovation \nhashtag\n#TechDisruption \nhashtag\n#writtenbyhuman\n\nhttps://lnkd.in/ghY_yNEV",
+        "postUrl": "https://www.linkedin.com/pulse/deepseeks-affordable-ai-dark-catalyst-undermining-tech-srivastava-eot0c?trackingId=tJLXL5LdQ6y27L5C62o3Tg%3D%3D",
+        "postTimestamp": "10h • \n \n10 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQE3JKe2SttMVQ/article-cover_image-shrink_423_752/B56ZT9mZalHQAU-/0/1739421490366?e=1744848000&v=beta&t=Sixqvf1BEXAhC5XcvEvd4cTFOLrJ9vJXvTlBbyFBuP4"
+        ],
+        "likesCount": 1,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#AffordableAI",
+          "hashtag\n#TechNews",
+          "hashtag\n#GlobalTech",
+          "hashtag\n#CyberSecurity",
+          "hashtag\n#EthicalAI",
+          "hashtag\n#Innovation",
+          "hashtag\n#TechDisruption",
+          "hashtag\n#writtenbyhuman"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Satyam Srivastava\nSatyam Srivastava\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/satyam-srivastava-61246876?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABAV724B1GOePqh7bCpNtcW6_8ESbpVQr3Y",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGk4fooMPXieA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719051226177?e=1744848000&v=beta&t=NRfemi6Mhyj8Am4z6W_IhbgT3YyEKJEg8JLX_VnmW10",
+        "authorHeadline": "Advising Startups | Helping Founders | Decoding AI | Driving Revenue for my Employer\nAdvising Startups | Helping Founders | Decoding AI | Driving Revenue for my Employer"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "This edition of \nhashtag\n#DemocracyDigest dives into key democratic trends across West Africa, unpacking governance shifts and civic space dynamics. A must-read for those following the region!",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-disinformation-democracy-centre-for-democracy-development-dihof?trackingId=MoJs5hPxTxOhfEANmji2rA%3D%3D",
+        "postTimestamp": "7h • \n \n7 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQEKgum_G6NQRg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1739273589550?e=1744848000&v=beta&t=7eTOri4skH3qH47UdIxn3vS0j-x-FpSDZRFuDHwnWO8"
+        ],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#DemocracyDigest",
+          "hashtag\n#DemocracyDigest",
+          "hashtag\n#WestAfrica",
+          "hashtag\n#AI",
+          "hashtag\n#Disinformation",
+          "hashtag\n#Governance",
+          "hashtag\n#CDDWestAfrica"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Faridha Salihu-Lukman\nFaridha Salihu-Lukman\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/faridha-salihu-lukman-10272378?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABB7CtIB5gY9QmMc1eOwL6gJyn9sdnusnTE",
+        "profilePictureUrl": "",
+        "authorHeadline": "Communications Strategist\nCommunications Strategist"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "پیاده‌سازی دستیار هوشمند مبتنی بر مدل  DeepSeek-R1 بصورت لوکالی\n\nتعطیلات این هفته بهونه‌ای شد تا یکم خارج از کارهای روتین و حتی تخصص خودم ماجراجویی کنم!\nاسمشو گذاشتم هوشنگ  :)\nتجربه جالبی رو داشتم با نصب و استفاده از مدل DeepSeek-R1 نسخه 14b  که با اضافه کردن Gradio به پروژه میشه یه اینترفیس هم بهش اضافه کرد؛ همچنین اگر نیاز باشه تو وب هم در مورد موضوع ارائه شده سرچ کنه، از searXNG استفاده کنه.\nمنابعی که بهش اختصاص داده بودم (32GB RAM, 1 socket of E5630) کافی نبود و تسک ها خیلی کند پیش می رفت، البته که بدون GPU و استفاده از تنها CPU مشخصا نتیجه بهتر از این نمی‌شد.\nهمین تسک رو تو google colab با v2-8 TPU و T4 GPU هم تست کردم، نتیجه به مراتب بهتر بود.\nبنابراین برای جدی گرفتن این نوع از پروژه‌ها نیاز به GPU pool متناسب با اون رو داریم که این موضوع وابسته به مدل زبانی و سایز پارامترهای اون و موارد دیگه مثل تعداد تسک و کاربر هست. \n\nدر این خصوص، تو مقاله زیر صفر تا صد پیاده‌سازی مربوطه رو توضیح دادم.",
+        "postUrl": "https://www.linkedin.com/pulse/run-deepseek-ai-assistant-your-local-machine-amir-azarmi-var-19wff?trackingId=6zyKRonpQMyyq%2FIGY9CdsQ%3D%3D",
+        "postTimestamp": "18h • Edited • \n \n18 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4D12AQHsHMKvhSAwqQ/article-cover_image-shrink_423_752/B4DZT71bLrHAAY-/0/1739391880807?e=1744848000&v=beta&t=e_7vzjf2QncZ78zRZ7XI-ZPeuviclKhAJTn1SjxlfXg"
+        ],
+        "likesCount": 13,
+        "commentsCount": 3,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Amir Azarmi var\nAmir Azarmi var\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/amir-azarmivar?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACJEst0BraEh8hRrMSP99rRGD3I4UD1LmzA",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQG1JKIICJhVbA/profile-displayphoto-shrink_100_100/B4DZQyeMzlGkAY-/0/1736013568538?e=1744848000&v=beta&t=I2SdCehwEoX8EHRdVzY9KXhznfBAHITF0e8_pvAqxY8",
+        "authorHeadline": "PKI & Cryptography | IT Solution Architect | Blockchain Enthusiast\nPKI & Cryptography | IT Solution Architect | Blockchain Enthusiast"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "📉 What happens when AI becomes 20x cheaper? would cost barriers to intelligent building technologies suddenly collapse? \n\nThe recent breakthroughs by \nhashtag\n#DeepSeek and others in reducing AI processing costs promise to reshape the AI landscape, but not in the way one might initially expect for intelligence in buildings. \nAs AI processing costs dramatically decrease, we're moving from an era of exclusive intelligent infrastructure — capabilities once reserved for premium properties with dedicated technical staff — to a landscape where sophisticated building management could become universally accessible.\n\n\nhashtag\n#buildings \nhashtag\n#AI",
+        "postUrl": "https://www.linkedin.com/pulse/can-cheaper-ai-transform-buildings-what-deepseek-really-tapeesh-sood-l0djc?trackingId=tk1kTONoRhS3p9bU2O0RXw%3D%3D",
+        "postTimestamp": "22h • Edited • \n \n22 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQFxKk0TW3EsgQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1739379453728?e=1744848000&v=beta&t=P_fwEf1PWvMURJOVrGkuPoQVPnSu3o6slMHJSfMT0kE"
+        ],
+        "likesCount": 6,
+        "commentsCount": 1,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#DeepSeek",
+          "hashtag\n#buildings",
+          "hashtag\n#AI"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Tapeesh Sood\nTapeesh Sood\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/tapeeshsood?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAjs-Q0B5kca3TyG5tpx14loxlIqWGVMo0I",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFivKb1EuCD8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732938341037?e=1744848000&v=beta&t=zvlkZL-NBk9Kz7MEfZQ0nuQ10mzz54DhlyUO70UhPy4",
+        "authorHeadline": "Talk to me about technology, buildings, climate\nTalk to me about technology, buildings, climate"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 𝐃𝐞𝐞𝐩𝐒𝐞𝐞𝐤: 𝐂𝐡𝐢𝐧𝐚’𝐬 𝐍𝐞𝐱𝐭 𝐀𝐈 𝐏𝐨𝐰𝐞𝐫𝐡𝐨𝐮𝐬𝐞?\n\nDeepSeek, led by Liang Wenfeng, is making waves in China’s AI sector with proprietary innovations and rapid expansion. The company is gearing up to compete with global giants like OpenAI.\n\nIn an exclusive conversation with AnYong, Wenfeng revealed groundbreaking insights into \nhashtag\n#DeepSeek vision and strategy. Here are the key takeaways 👇\n\n💬 What do you think—can DeepSeek reshape China’s \nhashtag\n#AI future?",
+        "postUrl": "",
+        "postTimestamp": "9h • \n \n9 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 10,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": ["hashtag\n#DeepSeek", "hashtag\n#AI"],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Veena Upadhyay\nVeena Upadhyay\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/veenaupadhyay?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEAUq7oBf7pdIt0CwgUAFfCBkvwagwnrZGY",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHaqeIcT5QxKA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1672237087188?e=1744848000&v=beta&t=Xv8MFmwbdzjsP1oTuxwh-JzRQSj78_9YI7DEIkQJ8F8",
+        "authorHeadline": "Managing Partner – NA & LATAM at PRIMAFELICITAS\nManaging Partner – NA & LATAM at PRIMAFELICITAS"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "DeepSeek V3, the AI model that is transforming the experience! It is the first open-source model to outperform closed-source giants like GPD 4.0 and CLA 3.5 Sonet on various benchmarks.\n\n 𝐖𝐡𝐲 𝐢𝐭’𝐬 𝐫𝐞𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐚𝐫𝐲:\n\n➡️ 𝐂𝐨𝐬𝐭-𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭: Just $0.014 per million tokens.\n➡️ 𝐔𝐧𝐦𝐚𝐭𝐜𝐡𝐞𝐝 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: Excels in tasks like MLU, coding benchmarks, and long-context retention.\n➡️ 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐄𝐭𝐡𝐨𝐬: Promotes decentralized intelligence and innovation.\n\n𝐖𝐡𝐚𝐭’𝐬 𝐞𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐟𝐨𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬?\n\n➡️ API access for seamless integration.\n➡️ Token streaming for real-time responses.\n➡️ Resources like technical papers & community support.\n\nRajat Sharma, Kunal Sharma, Durgesh Shaktawat, Kushangee Arora, Adeeb Khan, Harish prajapat- DM, Pushpendra Pareek, Shweta Nirwan, Rohit Kumar Sharma, Rahul Sharma, Sakshi Bhargava, Mamta K.\n.\n.\n\nhashtag\n#AI \nhashtag\n#ArtificialIntelligence \nhashtag\n#DeepSeek \nhashtag\n#DeepSeekAI",
+        "postUrl": "",
+        "postTimestamp": "2h • \n \n2 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 14,
+        "commentsCount": 0,
+        "repostCount": 3,
+        "hashtags": [
+          "hashtag\n#AI",
+          "hashtag\n#ArtificialIntelligence",
+          "hashtag\n#DeepSeek",
+          "hashtag\n#DeepSeekAI"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Kapil Kumar\nKapil Kumar\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/kapil-kumar-a3a9aa39?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAgn704BIy-op6PUeM-SoQ4X7Z2SfbxncNo",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEKWsfROcYFhg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697640891658?e=1744848000&v=beta&t=tLBMMSENjpUiyeFgLLpFdCSLxHeYsfnPxiDz0VZk6DM",
+        "authorHeadline": "Chairperson at The NineHertz, Leading Web and Mobile App Development Company\nChairperson at The NineHertz, Leading Web and Mobile App Development Company"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Now that the DeepSeek hype is dying down, it's time to critically evaluate how it performs in real situations. My team put the latest open-source contenders - DeepSeek, Mistral, and Llama - on trial with real Canadian case law.\n\nThe verdict? Not what the benchmarks would have you believe. I've shared a simple analysis comparing their performance on a Canadian court decision, with side-by-side outputs showing how each model actually approaches legal reasoning.\n\n👉 Check out the breakdown below:",
+        "postUrl": "https://www.linkedin.com/pulse/deepseek-benchmarks-entry-points-dont-help-hold-up-court-christie-ns4mc?trackingId=Q6IPzX1mTMG3fZTmw9wIQw%3D%3D",
+        "postTimestamp": "19h • \n \n19 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQHN61WRWEUi8w/article-cover_image-shrink_423_752/B56ZT7rxEYHsAY-/0/1739389344974?e=1744848000&v=beta&t=ekBWRTgrIchioyJ1YjY6CspVYVXP1-6fgqWDGHZS76w"
+        ],
+        "likesCount": 18,
+        "commentsCount": 2,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Benji Christie\nBenji Christie\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/benji-christie1234?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABxUxU0BdOXEvUUz6cGhxqBFAMCSdOvDewM",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHqmsZIF7jQtg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673638906030?e=1744848000&v=beta&t=wD3yDoKdmu1T9pAOb8KNT7_2vaiR5y9008hnMwLTiRQ",
+        "authorHeadline": "Building Trustworthy AI\nBuilding Trustworthy AI"
+      }
+    },
+    "job market 2025",
+    {
+      "postDetails": {
+        "postContent": "Which Skill Will Be Most Important in the Job Market of 2025?\n\n🚀 In 2025, which skill do you think will be in highest demand? Recruiters say skills are the biggest game-changer in job hunting!",
+        "postUrl": "",
+        "postTimestamp": "9h • \n \n9 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Learnify Education\nLearnify Education",
+        "authorUrl": "https://www.linkedin.com/company/learnify-education/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D560BAQFUaUN6OKPm8w/company-logo_100_100/company-logo_100_100/0/1716273456878/learnify_education_logo?e=1747267200&v=beta&t=LFKC1-C8uUUoGtj5ybXN_fy9G2I0AhcKUrb0wsiIslA",
+        "authorHeadline": "341 followers\n341 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Struggling to land a job in 2025? 🤔 \n\nThe hiring game is changing fast! 🚀 From AI resume screening to skills-based hiring, candidates face new challenges—but there are solutions! 🔑 \n\nCheck out my latest HR insights on how to stand out in a competitive job market. Let’s talk! 💬\n\n\nhashtag\n#JobSearch \nhashtag\n#HRTrends2025 \nhashtag\n#CareerGrowth \nhashtag\n#HRtips \nhashtag\n#RecruitmentTips",
+        "postUrl": "https://www.linkedin.com/pulse/why-candidates-struggling-get-hired-2025-shivani-rathod-izoyc?trackingId=hMyy8hgbSrC9c3Nvlylm7w%3D%3D",
+        "postTimestamp": "10h • \n \n10 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQFFUvk-f5wERA/article-cover_image-shrink_423_752/B56ZT9jyfmHQAU-/0/1739420807678?e=1744848000&v=beta&t=WTBzkKDQ92-AM2b-T2wliG04T3jRbn8gujcxZx5sn-E"
+        ],
+        "likesCount": 5,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#JobSearch",
+          "hashtag\n#HRTrends2025",
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#HRtips",
+          "hashtag\n#RecruitmentTips"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Shivani Rathod\nShivani Rathod\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/shivanirathod23?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADY78hkBOXBR5V1Lc5Z40ySsDrwfIK3DwFo",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQHzeU6solSfvw/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1719444670715?e=1740067200&v=beta&t=zl4I0XmWiO5QdEAcTUjzlfoiZ_jofdVL3yQqMhidUII",
+        "authorHeadline": "Human Resource & Talent Acquisition | Marketing & Communications | MEP, Data Center & Semiconductor Hiring | Branding & Graphic Design Specialist | 7+ years\nHuman Resource & Talent Acquisition | Marketing & Communications | MEP, Data Center & Semiconductor Hiring | Branding & Graphic Design Specialist | 7+ years"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀𝐓𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 𝐨𝐟 𝐂𝐚𝐫𝐞𝐞𝐫 𝐆𝐫𝐨𝐰𝐭𝐡: 𝐖𝐡𝐢𝐜𝐡 𝐒𝐤𝐢𝐥𝐥 𝐌𝐚𝐭𝐭𝐞𝐫𝐬 𝐌𝐨𝐬𝐭?🚀\n\nAs we step into 2025, the job market is evolving rapidly! Which skill do you think will be the key to success? \n\nCast your vote and let’s discuss in the comments! ⬇️\n\n\nhashtag\n#CareerGrowth \nhashtag\n#SkillsForSuccess \nhashtag\n#ProfessionalDevelopment \nhashtag\n#Devix \nhashtag\n#LinkedInPoll \nhashtag\n#FutureOfWork",
+        "postUrl": "",
+        "postTimestamp": "10h • \n \n10 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#SkillsForSuccess",
+          "hashtag\n#ProfessionalDevelopment",
+          "hashtag\n#Devix",
+          "hashtag\n#LinkedInPoll",
+          "hashtag\n#FutureOfWork"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "DEVIX\nDEVIX",
+        "authorUrl": "https://www.linkedin.com/company/getdevix/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHV9CfjoaDzww/company-logo_100_100/company-logo_100_100/0/1729199676949/getdevix_logo?e=1747267200&v=beta&t=m5Un44EWuzGROC5Tpz7IlKOXt5FUaBcGRVsrwAFB_KI",
+        "authorHeadline": "2,734 followers\n2,734 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Deloitte's 2024 Global Workforce Management Survey offers valuable insights into the future of workforce management. One key finding is that organizations leveraging advanced analytics see a 20% improvement in workforce efficiency. UKG customers frequently demonstrate the impact data-driven strategies have on their businesses. If you're thinking about optimizing workforce processes, this report is worth a read. https://ukg.inc/41e35CA \nhashtag\n#WorkforceManagement \nhashtag\n#HRTech \nhashtag\n#DeloitteInsights",
+        "postUrl": "",
+        "postTimestamp": "2m • \n \n2 minutes ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#WorkforceManagement",
+          "hashtag\n#HRTech",
+          "hashtag\n#DeloitteInsights"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Aditya Chowdhary\nAditya Chowdhary\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/aditya-chowdhary2211?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAD-Qq4BBbfA-eEDzjBUIPubiabOaL6oNo8",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQH7zubZMrD4nQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1723028846187?e=1744848000&v=beta&t=y49KJEbNWv-T2pJg4RpItFNkc5jgt4VyscDZryFO9bQ",
+        "authorHeadline": "Senior Director - Managed Services.\nSenior Director - Managed Services."
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Job Market Paradox 2012-2025\n\nFrom the core of Construction balloon to the IT balloon.\n\nThe more I try, the more I struggle to find differences.\n\nHyperconnected however not engaged connections.\n\nHunt for Recruiters to hunt for jobs (if they even exist).\n\nThe challenge is still on.",
+        "postUrl": "",
+        "postTimestamp": "3m • Edited • \n \n3 minutes ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 1,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Juan Manuel Pelegrin Robles\nJuan Manuel Pelegrin Robles\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/juanmapero?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACJ7s7ABPT6iqb7-TcmvI2slZrmmMfpksoY",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQHb83r3qnfiDA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1728395866688?e=1740067200&v=beta&t=H2LvsP2D_F2CNLBGK2pIuvKwyO1v7nJQm0JBRQiyO4w",
+        "authorHeadline": "Problem solving | Agile | Leadership | Project Manager | IT | Construction\nProblem solving | Agile | Leadership | Project Manager | IT | Construction"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "There's a lot to be optimistic about in the 2024 STL Tech Jobs Report! Worth the read but here are a few takeaways:\n \n🌟 Despite a flat Q4 in 2024, STL is ranked 6th in US Metros for new tech job postings. \n🌟 Continued growth is forecasted for tech jobs in St. Louis in 2025. AI, cybersecurity, and big data lead the way in growth/demand.\n🌟 86% of companies reported that AI will transform their business by 2030.\n🌟 Coursera reports that year over year enrollment in GenAI online courses is up 1040% as workers upskill.",
+        "postUrl": "",
+        "postTimestamp": "3m • \n \n3 minutes ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Mary Nestojko\nMary Nestojko\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/mary-nestojko-1aa4a0174?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAClc2xIBR1nc-BlG4srZrgHvHNbxq96VyIU",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEciHsqOlO71g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594654609545?e=1744848000&v=beta&t=365PFidhOMtiJoR-F1BwPecs40Zdp0LSeqdKE8lYaxM",
+        "authorHeadline": "Your partner for exceptional tech talent in St. Louis.\nYour partner for exceptional tech talent in St. Louis."
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Though the jobs market has slowed, with vacancies back at pre-pandemic levels, professionals are still looking ahead to what's next. LinkedIn data shows more than half are open to new opportunities – but the debate over returning to the office continues, raising questions about visibility, career progression and the impact of proximity bias.\n\nNew LinkedIn data reveals that younger workers feel a stronger need to be seen in person to advance, but their career aspirations look different from previous generations. Many are choosing entrepreneurship over traditional management roles.\n\nWith workplace expectations shifting, how should professionals adapt? How important do you feel in-person visibility is to progression? Read more and share your thoughts in the comments.\n\n\nhashtag\n#WorkforceInsights \nhashtag\n#WorkforceConfidenceIndex",
+        "postUrl": "https://www.linkedin.com/pulse/who-wants-manager-how-different-generations-feel-career-fmhxc?trackingId=cwOf%2FNB8RcyI2TlnPYIM2w%3D%3D",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQEe9ix6FlngWA/article-cover_image-shrink_423_752/B56ZT7W16ZGoAU-/0/1739383857594?e=1744848000&v=beta&t=pskjj7dd54FbqSNmYlQ4az8l5PXoPkThnZV0bfaV4qQ"
+        ],
+        "likesCount": 93,
+        "commentsCount": 59,
+        "repostCount": 3,
+        "hashtags": [
+          "hashtag\n#WorkforceInsights",
+          "hashtag\n#WorkforceConfidenceIndex"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "LinkedIn News UK\nLinkedIn News UK",
+        "authorUrl": "https://www.linkedin.com/showcase/linkedin-news-uk/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF2N4oLrjT9uQ/company-logo_100_100/company-logo_100_100/0/1630534867753/linkedin_news_uk_logo?e=1747267200&v=beta&t=H4ShjYGoqUSvQTfcgscZM8DZXP9n_pONrPgy4AFSSUQ",
+        "authorHeadline": "2,989,335 followers\n2,989,335 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Why the remote job search market is changing (and what to do about it)…\n\n\nThe job market is changing, but we should be encouraged.\n\nWith the right strategy, we can swap out the old approach and make it look new. \n\nWhile remote roles aren’t as easy to find as in 2020, they’re still available in abundance.\n\nWe just need a smart, updated approach to land them. \n\nHere’s 3 ways to refresh our remote job search in 2025:\n\n✅ 1 // Make networking a priority. As cliché as it sounds, our network really is our net worth. Let’s build it before we need and give before we take. \n\n✅ 2 // Leverage LinkedIn. Our profile should be a 24/7 job lead machine. Optimize it with the right verbiage and keywords to be found. \n\n✅ 3 // Tap the “hidden job market.” Most remote jobs are filled through referrals. Tapping the hidden market allows us to discover these roles before they hit the boards. \n\nThe traditional job search is dead. Give it a little love and refresh, and we’ll be just fine. \n\nQuestion - What’s your #1 job search tip for a new job seeker? How’s the market changing? \n\nHere’s to us “escaping the cubicle” Wes\n\n\nhashtag\n#remotework \nhashtag\n#jobsearchtips",
+        "postUrl": "",
+        "postTimestamp": "21h • \n \n21 hours ago",
+        "postType": "video",
+        "mediaUrls": [],
+        "likesCount": 582,
+        "commentsCount": 32,
+        "repostCount": 28,
+        "hashtags": ["hashtag\n#remotework", "hashtag\n#jobsearchtips"],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Wes Pearce\nWes Pearce\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/wespearce11?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABFrLJwBBdxbqroVRfq9-6jDKXs9DAQxTko",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEopH13SA1IAw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1703446887035?e=1744848000&v=beta&t=tGatKRZP4tOe6G1iigZY7l8OCsc76qrlE_TV9f1LwK8",
+        "authorHeadline": "Resume Writer & Career Coach ➖ Writing Daily on “EscapeTheCubicle.Substack.Com” ➖ Join 5-Day Email Class on “How to Grow on LinkedIn” 👇🏼\nResume Writer & Career Coach ➖ Writing Daily on “EscapeTheCubicle.Substack.Com” ➖ Join 5-Day Email Class on “How to Grow on LinkedIn” 👇🏼"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Malaysia’s 2025 Job Market & Salary Trends Are Here! 📢\n\nWhat’s Inside?\n • 📈 Hiring & Economic Outlook – Key employer insights\n • 🔍 In-Demand Skills & Roles – Stay ahead in talent competition\n • 💰 Salary Benchmarks – Compare pay for 300+ professional jobs\n • 🎯 Talent Expectations – What professionals want in 2025\n\n📥 Download the full report now!\nGet your copy here: https://lnkd.in/g-eQkjzQ\n\nRandstad Malaysia",
+        "postUrl": "",
+        "postTimestamp": "14h • \n \n14 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/embeds/native-document.html?li_theme=light"
+        ],
+        "likesCount": 10,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Shawn PHEE\nShawn PHEE\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/shawnphee?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABCeLNEBNDl9p2t38FxWaBBklZ49tEf8E2c",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQED7TjkE3ub4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730884094950?e=1744848000&v=beta&t=A1aFOFIIskjMvMBE5Dh39lOSvG93YosVDQcIsbuSrmQ",
+        "authorHeadline": "Career Growth | Talent Attraction | DE&I 🐶🔮🌐\nCareer Growth | Talent Attraction | DE&I 🐶🔮🌐"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "It's 2025 and layoffs are slamming hard, putting thousands in a bind. Meta, BP and Infosys have all trimmed jobs, shattering careers in the blink of an eye. The job market seems brutal—loyalty counts for nothing, and the end could be near. Experienced pros are now scrambling, forced to reassess their futures. In this ruthless cycle, adaptability is not just an asset; it’s survival.\nAnd especially if that means companies are taking a stronger role.\nCompanies look out for themselves.\nYou take care of you.",
+        "postUrl": "",
+        "postTimestamp": "2h • \n \n2 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 5,
+        "commentsCount": 1,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Dr. Nitin Thakur\nDr. Nitin Thakur\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/dr-nitin-thakur?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAaFqR0BMVOXQa1dVk1sqeGf8UVc8ebcGcA",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQE8pZKbVX56kA/profile-displayphoto-shrink_100_100/B4DZQqasDlGkAU-/0/1735878428944?e=1744848000&v=beta&t=OJxWXX7aOONsr5on9Cjskndc4pIhCGCyXaXfkycK4R0",
+        "authorHeadline": "Post-Doctorate in Solid Mechanics and Design (Mechanical Engineering) from IIT Delhi, India\nPost-Doctorate in Solid Mechanics and Design (Mechanical Engineering) from IIT Delhi, India"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "How can we help people network and land jobs in 2025?\n\nThe job market is evolving rapidly—from Web2 job boards to Web3 decentralized networks, AI-driven talent matching, and blockchain-verified credentials. As an advisor and talent acquisition leader in the SaaS space, I’ve been thinking a lot about how we can better support candidates in this new landscape.\n\nIn my latest article, I explore:\n\n✅ How decentralization is changing job searches\n✅ The power of AI-driven career guidance\n✅ Why community-driven hiring is the future\n✅ How to expand job opportunities beyond traditional platforms\n\nNow more than ever, networking and job searching require adaptability. Check out my article to learn how we can rethink hiring and help candidates navigate 2025 with confidence.",
+        "postUrl": "https://www.linkedin.com/pulse/mastering-networking-skills-2025-elena-kalova-nscjc?trackingId=keYxQOKsSgC9KKA9J8NQRQ%3D%3D",
+        "postTimestamp": "14h • Edited • \n \n14 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQGGmTJ-owo4TQ/article-cover_image-shrink_423_752/B56ZT8xGdEHoAU-/0/1739407523730?e=1744848000&v=beta&t=YTxN7VFwLBmVCWXYzvmzTue28ERtWrTJ9N2f1bGIX9k",
+          {},
+          {}
+        ],
+        "likesCount": 21,
+        "commentsCount": 4,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Elena K.\nElena K.\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/elenahrtalentadvisor?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAALFGGUBKFBuSzTzrk_IF_TjOaiMoJ4c7BM",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEb6FR40qVHog/profile-displayphoto-shrink_100_100/B56ZRrOINIG8AU-/0/1736965653912?e=1744848000&v=beta&t=OnfeO4-l5gA3J6NuXYqoa1xRJothpNeLkT3W9Df5txo",
+        "authorHeadline": "Helping companies scale ~Talent Acquisition, HR & Operations Advisor\nHelping companies scale ~Talent Acquisition, HR & Operations Advisor"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Professionals are on the move in 2025! \n \nMany are actively job hunting, with workplace flexibility and career progression as the top motivators driving career changes, while we know companies are still challenged meeting those expectations. \n\nAiming to bring awareness, help you make strategic career decisions and drive change in the market, our comprehensive report provides insights for both Employers as well as Job Seekers.\n\nWe welcome you to try out our Salary Benchmarking & Salary Comparison Tools made available on the landing page.\n\nStay ahead of the competition for talent by downloading our 2025 Salary Guide to inform your decisions: https://lnkd.in/geJ7ha6z\n\n\n\nhashtag\n#SalaryGuide2025 \nhashtag\n#HiringTrends \nhashtag\n#TalentAcquisition \nhashtag\n#MichaelPage \nhashtag\n#RecruitmentConsulting",
+        "postUrl": "",
+        "postTimestamp": "10h • \n \n10 hours ago",
+        "postType": "video",
+        "mediaUrls": [],
+        "likesCount": 8,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#SalaryGuide2025",
+          "hashtag\n#HiringTrends",
+          "hashtag\n#TalentAcquisition",
+          "hashtag\n#MichaelPage",
+          "hashtag\n#RecruitmentConsulting"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Jason Joseph\nJason Joseph\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/jasonjoseph04?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACqLN3EBZuKMCNWnMkX9QSozbp4-KMIdCro",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF8-dBqr_26lQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1679417793962?e=1744848000&v=beta&t=vzglW6UX6WIGFFVONstK9ClvxfCQe4_r4xAav3WyShA",
+        "authorHeadline": "\"Leaders exist within a Team\" | Recruitment Consulting with Michael Page, Bengaluru. | MBA (HR & Business Analytics)\n\"Leaders exist within a Team\" | Recruitment Consulting with Michael Page, Bengaluru. | MBA (HR & Business Analytics)"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Professionals are on the move this year in 2025! Many are actively job hunting, with workplace flexibility and career progression as the top motivators driving career changes, while we know companies are still challenged meeting those expectations. \n \nStay ahead of the competition for talent by downloading our 2025 Salary Guide to inform your decisions: https://lnkd.in/gXckDHYf \n\nhashtag\n#SalaryGuide2025 \nhashtag\n#HiringTrends \nhashtag\n#TalentAcquisition\n \nAccess the full report here https://lnkd.in/gXckDHYf",
+        "postUrl": "",
+        "postTimestamp": "10h • Edited • \n \n10 hours ago",
+        "postType": "video",
+        "mediaUrls": [],
+        "likesCount": 6,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#SalaryGuide2025",
+          "hashtag\n#HiringTrends",
+          "hashtag\n#TalentAcquisition"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Shaivya Sharma\nShaivya Sharma\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/shaivyasharma1?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABqCcIYBYHnwflULdOvQAyBAateLpmi-PCc",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEZbOjlxORYcQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1703142180099?e=1744848000&v=beta&t=l_lZQD22YwEXNy7OtxtiKga6xSiwFBdJk8bsPymAqt8",
+        "authorHeadline": "Associate Manager @ Michael Page | Executive Search- Financial Services\nAssociate Manager @ Michael Page | Executive Search- Financial Services"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "India - Salary Guide - 2025\n\nIf you are in the market for a job or are a talent recruiter, you may find this report helpful.\n\nThe Page Insights India Salary Guide by Michael Page is an annual resource that provides hiring managers and candidates with salary references across various industries by job functions, including Finance, Technology, Human Resources, Engineering, Sales and more.\n\nThis report serves as a valuable tool for informed decisions in the hiring process.\n\nIn addition, also cross check this data with information on sites like Glassdoor, Payscale and AmbitionBox and from companies like Adecco that might yield more Company specific details.\n\n\nhashtag\n#Hiring \nhashtag\n#Recruitment \nhashtag\n#Jobs \nhashtag\n#Salary \nhashtag\n#MichaelPage \nhashtag\n#Data \nhashtag\n#India \nhashtag\n#Careers \nhashtag\n#Glassdoor \nhashtag\n#Payscale \nhashtag\n#Naukri \nhashtag\n#Monster \nhashtag\n#Adecco \nhashtag\n#Indeed \nhashtag\n#Transparency \nhashtag\n#Opportunity",
+        "postUrl": "",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/embeds/native-document.html?li_theme=light"
+        ],
+        "likesCount": 6,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#Hiring",
+          "hashtag\n#Recruitment",
+          "hashtag\n#Jobs",
+          "hashtag\n#Salary",
+          "hashtag\n#MichaelPage",
+          "hashtag\n#Data",
+          "hashtag\n#India",
+          "hashtag\n#Careers",
+          "hashtag\n#Glassdoor",
+          "hashtag\n#Payscale",
+          "hashtag\n#Naukri",
+          "hashtag\n#Monster",
+          "hashtag\n#Adecco",
+          "hashtag\n#Indeed",
+          "hashtag\n#Transparency",
+          "hashtag\n#Opportunity"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Zubin Somervell\nZubin Somervell\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/zubinsomervell?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAArHr3IBEYlVWzkQ0m7Ux2QV4LEGdnz8UU4",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFugNDrXJ4wCw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1600005570336?e=1744848000&v=beta&t=c4oz2cI5GJrMVRpfeImcFcWgrt-dBU3LZyRZ2yvPXeQ",
+        "authorHeadline": "CEO / COO | People Leader | Innovation Strategist | Business Architect | Digital Transformation Expert | Problem Solver | AI Enthusiast | Data Evangelist | Design Thinker | Marketeer | Startup Enabler | Networker\nCEO / COO | People Leader | Innovation Strategist | Business Architect | Digital Transformation Expert | Problem Solver | AI Enthusiast | Data Evangelist | Design Thinker | Marketeer | Startup Enabler | Networker"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "I’ve been a little MIA on LinkedIn because - well - mom duty calls! But logging in this week and seeing so many people starting new positions!! That makes my heart so happy. 🙌\n\nIt really feels like 2025 is bringing a shift in the job market, and I’m hopeful that even more job seekers will start seeing progress soon.\nIf you’re still in the search, keep going. Your time is coming. 🤍\n\nAre others seeing this lovely trend as well? \n\n\n\nhashtag\n#JobSearch \nhashtag\n#OpentoWork \nhashtag\n#Hiring \nhashtag\n#Jobs \nhashtag\n#NewJob",
+        "postUrl": "",
+        "postTimestamp": "1d • \n \n1 day ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 124,
+        "commentsCount": 15,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#JobSearch",
+          "hashtag\n#OpentoWork",
+          "hashtag\n#Hiring",
+          "hashtag\n#Jobs",
+          "hashtag\n#NewJob"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Abbey Phillips\nAbbey Phillips\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/abbey-rose-phillips?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB5YepUBvcGjpTWTHktP0KQUfdZf6mzk-tw",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEFtMZGUmVGDg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708019536105?e=1744848000&v=beta&t=3Xyxr8oTnTWESKudK2INjmhbeSefsWNW6ajD_NnIUT0",
+        "authorHeadline": "Talent Advisor | Recruiter for Healthcare IT, Finance, and Scientists in Clinical Research | Entrepreneur & Business Owner\nTalent Advisor | Recruiter for Healthcare IT, Finance, and Scientists in Clinical Research | Entrepreneur & Business Owner"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 India's 2025 Job Market: IT, Art & Automotive\n🔑 Key Takeaway:\nIndia's IT, art, and automotive sectors offer high-paying roles for skilled professionals.\n📊 Industry Insights:\nIT Services (Application Development):\nRoles: Software developers, app architects\nSalaries: ₹10–₹35 LPA\nArt & Photography (Art):\nRoles: Creative directors, digital artists\nSalaries: ₹6–₹25 LPA\nAutomotive (Auto & Truck Manufacturers):\nRoles: Automotive engineers, quality specialists\nSalaries: ₹8–₹30 LPA\n🔥 In-Demand Skills:\nMobile app development\nDigital art tools\nAutomotive simulation\n🚀 Career Tip:\nUpskill with certifications and online courses to stay ahead.\n\nhashtag\n#JobTrends2025 \nhashtag\n#ITServices \nhashtag\n#ArtCareers \nhashtag\n#AutomotiveJobs \nhashtag\n#JobTrends2025 \nhashtag\n#CareerGrowth \nhashtag\n#AgricultureJobs \nhashtag\n#FashionIndustry \nhashtag\n#JobcatalystsInsights \nhashtag\n#UpreakInsights \nhashtag\n#jobs \nhashtag\n#upreak \nhashtag\n#jobcatalyst \nhashtag\n#joptech",
+        "postUrl": "",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 5,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#JobTrends2025",
+          "hashtag\n#ITServices",
+          "hashtag\n#ArtCareers",
+          "hashtag\n#AutomotiveJobs",
+          "hashtag\n#JobTrends2025",
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#AgricultureJobs",
+          "hashtag\n#FashionIndustry",
+          "hashtag\n#JobcatalystsInsights",
+          "hashtag\n#UpreakInsights",
+          "hashtag\n#jobs",
+          "hashtag\n#upreak",
+          "hashtag\n#jobcatalyst",
+          "hashtag\n#joptech"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Shiba Alambardar\nShiba Alambardar\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/shiba-alambardar-6193b1344?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFYzKTUBYdLfEBrPZRYc4FM1nQ3g1Igbryo",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGBBNjSC-71bg/profile-displayphoto-shrink_100_100/B4EZSn7y1CGwAY-/0/1737984257845?e=1744848000&v=beta&t=Q7NWNsHXrP--0gX1daxhSpoRUShhRFRTffwTzjNcAkM",
+        "authorHeadline": "Human resource at Upreak\nHuman resource at Upreak"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 India’s Hiring Trends in 2025: India’s job market is witnessing major shifts in 2025. Some industries are expanding aggressively, while others are struggling with hiring slowdowns.\n\nSectors Experiencing a Hiring Boom:\n🖥️ Information Technology (IT)\n🔹 The IT sector is leading hiring with a 50% net employment outlook, driven by AI, cybersecurity, cloud computing, and data analytics. Companies are focusing on automation and digital transformation, creating strong demand for highly skilled professionals.\n\nBanking, Financial Services & Insurance (BFSI)\n🔹 The BFSI sector continues to expand, with 7.2% job growth. Fintech companies are driving demand for roles in digital banking, risk management, and compliance. The insurance sector is also hiring aggressively as more people seek financial security.\n\n⚡ Renewable Energy\n🔹 India’s green energy push is generating jobs in solar, wind, and sustainability consulting. The shift towards clean energy and net-zero targets is creating opportunities in engineering, project management, and policy roles.\n\n📉 Sectors Facing Hiring Challenges: \n\n🏭 Manufacturing\n🔹 Despite ‘Make in India,’ manufacturing job growth remains sluggish. The sector’s GDP contribution is stagnant at 14.7%, and hiring is slow due to high production costs, policy bottlenecks, and weak consumer demand. Some sub-sectors like electronics and automobiles are expanding, but overall growth is limited.\n\n🛒 Retail\n🔹 The rise of e-commerce is affecting brick-and-mortar stores, leading to fewer hiring opportunities in traditional retail. However, there’s still demand in logistics, supply chain management, and customer experience roles in online commerce.\n\n📶 Telecom\n🔹 While 5G expansion is underway, hiring remains focused on specialized technical roles rather than mass recruitment. Automation and AI-powered customer service are reducing workforce expansion, keeping hiring numbers low.\n\n\nhashtag\n#HiringTrends\n \nhashtag\n#IndiaJobs \n\nhashtag\n#CareerGrowth \n\nhashtag\n#JobMarket2025 \n\nhashtag\n#FutureOfWork\n\nhashtag\n#Guidinglightmentors",
+        "postUrl": "",
+        "postTimestamp": "3h • \n \n3 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 5,
+        "commentsCount": 2,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#HiringTrends",
+          "hashtag\n#IndiaJobs",
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#JobMarket2025",
+          "hashtag\n#FutureOfWork",
+          "hashtag\n#Guidinglightmentors"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Ramkumar Rajagopal\nRamkumar Rajagopal\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/careercounsellorandlifecoach?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEf2l-8BsXWiyjjPRDCAlIdokhk4xO6805c",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHz-hXRXOyF6A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1723217796000?e=1744848000&v=beta&t=7LbMKSDGfviBLFKNGDLmK6y3tqL0jLxP-hvMY6JeisQ",
+        "authorHeadline": "Career Counselor | Life and Relationship Coach | Transforming Careers and Relationships\nCareer Counselor | Life and Relationship Coach | Transforming Careers and Relationships"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "In 2024: 547 tech companies laid off 152,104 employees \nAmazon laid off ~ 17000+ people\nMicrosoft laid off ~ 10000+ people\nGoogle laid off ~ 12000+ people\n\nRight now, in 2025: Meta just announced fresh layoffs of 4000 people and many other companies are going through the same. \n\nThe concept of job security doesn’t exist anymore. \n\nNot for me. \nNot for you. \nNot for anyone in this market. \n\nCompanies change direction. Priorities shift. Layoffs happen.\n It’s not personal. It’s business. \n\nSo if you have a job right now, don’t get too comfortable. \n\nThe only real job security you have? Your skills. \n\nThe people who stay ahead are the ones who: \n\n✅ Keep learning new things \n✅ Stay adaptable and open to change \n✅ Take control of their own growth \n\nYour company isn’t your safety net. \nYour boss isn’t your safety net. \nYOU are your safety net. \n\nThe moment you stop investing in yourself, \nyou start falling behind. \n\nSo here’s your reminder: \n\n📌 Upskill. \n📌 Stay curious. \n📌 Build something of your own. \n\nBecause when you bet on yourself, no recession, no layoff, and no company decision can shake you. \n\nHave a great week ahead! 🚀",
+        "postUrl": "",
+        "postTimestamp": "2h • \n \n2 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 231,
+        "commentsCount": 6,
+        "repostCount": 3,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Sai Ram Somanaboina\nSai Ram Somanaboina\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/sai-ram-somanaboina?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAmBwooB4WCZpTsTScZQmG-KxRVDIWg_nA0",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHoBRijXnlumw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708955503510?e=1744848000&v=beta&t=hhCA_X2yvmxk8M3KYPNMCVFE6fkFxBBCxsomB6B1_iI",
+        "authorHeadline": "Engineering Manager | Backed by 45k | Let’s build great products, together\nEngineering Manager | Backed by 45k | Let’s build great products, together"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Wondering what skills are on the rise and will be core for organizations as we approach 2030? \n\nThe World Economic Forum's recently released Future of Jobs Report 2025 indicates that alongside technological skills around AI, big data, and cybersecurity, human-centric skills including \nhashtag\n#leadership and social influence, curiosity and lifelong \nhashtag\n#learning and \nhashtag\n#talent management will be vital.\n\nFor a deeper understanding, you can download the full report here: https://lnkd.in/eXRQi6zk",
+        "postUrl": "",
+        "postTimestamp": "13h • Edited • \n \n13 hours ago",
+        "postType": "video",
+        "mediaUrls": [],
+        "likesCount": 2,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#leadership",
+          "hashtag\n#learning",
+          "hashtag\n#talent",
+          "hashtag\n#wef25",
+          "hashtag\n#FutureOfJobs25"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "FranklinCovey Hong Kong\nFranklinCovey Hong Kong",
+        "authorUrl": "https://www.linkedin.com/company/franklincovey-hong-kong/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C560BAQFtyRWBIMKwYw/company-logo_100_100/company-logo_100_100/0/1643940683062/franklincovey_hong_kong_logo?e=1747267200&v=beta&t=WeVtxF9wl_1WowIELVBPBlK_PWkSomcgvhCObOAiGB4",
+        "authorHeadline": "625 followers\n625 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "𝐔𝐊 𝐉𝐨𝐛 𝐌𝐚𝐫𝐤𝐞𝐭 𝟮𝟬𝟮𝟱. 𝐈𝐬 𝐢𝐭 𝐚 𝐑𝐨𝐜𝐤𝐲 𝐒𝐭𝐚𝐫𝐭 𝐨𝐫 𝐚 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐭 𝐂𝐨𝐦𝐞𝐛𝐚𝐜𝐤?\n\n1. Job postings down 16.8%, yet 1.41M roles remain open—what’s really happening?\n2. Tech hiring is bouncing back, but talent shortages persist!\n3. Economic confidence is rising, but staffing firms must stay proactive.\n\nWe break down the latest trends shaping UK recruitment. Are you ready for what’s next? \n\n\nhashtag\n#UKRecruitment \nhashtag\n#HiringTrends \nhashtag\n#StaffingIndustry \nhashtag\n#StaffingSolutions \nhashtag\n#QxGlobalGroup",
+        "postUrl": "https://www.linkedin.com/pulse/76-uk-employers-still-struggle-find-talentwhat-onbsc?trackingId=Zi5v3ekUT7iaYgBceJT5IQ%3D%3D",
+        "postTimestamp": "3h • \n \n3 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQGpTjWtcvUu2A/article-cover_image-shrink_423_752/B56ZT_TwwZGUAY-/0/1739450159000?e=1744848000&v=beta&t=rUiwggLGiPRry3ZQV2xoNi8RTtObvNfIrhDY6jcQ6uU"
+        ],
+        "likesCount": 7,
+        "commentsCount": 0,
+        "repostCount": 2,
+        "hashtags": [
+          "hashtag\n#UKRecruitment",
+          "hashtag\n#HiringTrends",
+          "hashtag\n#StaffingIndustry",
+          "hashtag\n#StaffingSolutions",
+          "hashtag\n#QxGlobalGroup"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "QX Recruitment Services\nQX Recruitment Services",
+        "authorUrl": "https://www.linkedin.com/showcase/qx-recruitment-services/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF4-BRplZ_5dA/company-logo_100_100/company-logo_100_100/0/1630645470464/qx_recruitment_services_logo?e=1747267200&v=beta&t=GE-SftOoVyXPJsOGM6k99DpTCV93k5I2XaTxNpFZrAM",
+        "authorHeadline": "10,488 followers\n10,488 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "The INSANE reality of job hunting in 2025:\n\n(and the smarter way to land your dream role)\n\nLet these numbers sink in for a second:\n\n250+ applications competing for every single job posting.\n100+ applications before most people land their dream role.\n\nThis math is mind-blowing, to say the least.\n\nMore competition than we've ever seen before.\nWay less chance of your application standing out.\nAnd SO many hours wasted on individual applications.\n\nBut here's what most people are completely missing:\n\nJob hunting in 2025 isn't about working harder anymore.\nIt's about working smarter with the right tools!!\n\nEnter Massive: aka Tinder, but for finding your dream job, so cool!\n\nLess of:\n\n- Endless hours scrolling through LinkedIn.\n- Getting lost in Indeed job search rabbit holes.\n- Manually filling out application after application.\n\nYou get:\n\n- Opportunities that actually match your experience.\n- Quick swipe applications that save tons of time.\n- Global job matching across top companies.\n\nThe job market is definitely tough right now.\n\nBut the solution isn't spending more hours applying.\nIt's using better tools to find the right fit (+ with AI’s help).\n\nP.S. One thing that you think makes you stand out for job opportunities today?",
+        "postUrl": "",
+        "postTimestamp": "2h • \n \n2 hours ago",
+        "postType": "video",
+        "mediaUrls": [],
+        "likesCount": 106,
+        "commentsCount": 88,
+        "repostCount": 1,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Lindsay Rosenthal\nLindsay Rosenthal\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/gen-z?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADCC9tEBXC5kH-KRjqXEWBaO6ECQd8Y7GiA",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFHWNHl3jfmDQ/profile-displayphoto-shrink_100_100/B56ZSFyvpoH0Ac-/0/1737411460280?e=1744848000&v=beta&t=q6L4jGBMN_mxaMTYkk0ZCkUyHvCfXvEl5kcmLrtZgvE",
+        "authorHeadline": "1 call to get 1 month of video | Learn about video marketing + AI | Speaker\n1 call to get 1 month of video | Learn about video marketing + AI | Speaker"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 India's 2025 Job Market: IT, Art & Automotive\n🔑 Key Takeaway:\n India's IT, art, and automotive sectors offer high-paying roles for skilled professionals.\n📊 Industry Insights:\nIT Services (Application Development):\nRoles: Software developers, app architects\nSalaries: ₹10–₹35 LPA\nArt & Photography (Art):\nRoles: Creative directors, digital artists\nSalaries: ₹6–₹25 LPA\nAutomotive (Auto & Truck Manufacturers):\nRoles: Automotive engineers, quality specialists\nSalaries: ₹8–₹30 LPA\n🔥 In-Demand Skills:\nMobile app development\nDigital art tools\nAutomotive simulation\n🚀 Career Tip:\n Upskill with certifications and online courses to stay ahead.\n\nhashtag\n#JobTrends2025 \nhashtag\n#ITServices \nhashtag\n#ArtCareers \nhashtag\n#AutomotiveJobs \nhashtag\n#JobTrends2025 \nhashtag\n#CareerGrowth \nhashtag\n#AgricultureJobs \nhashtag\n#FashionIndustry \nhashtag\n#JobcatalystsInsights \nhashtag\n#UpreakInsights \nhashtag\n#jobs \nhashtag\n#upreak \nhashtag\n#jobcatalyst \nhashtag\n#joptech",
+        "postUrl": "",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#JobTrends2025",
+          "hashtag\n#ITServices",
+          "hashtag\n#ArtCareers",
+          "hashtag\n#AutomotiveJobs",
+          "hashtag\n#JobTrends2025",
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#AgricultureJobs",
+          "hashtag\n#FashionIndustry",
+          "hashtag\n#JobcatalystsInsights",
+          "hashtag\n#UpreakInsights",
+          "hashtag\n#jobs",
+          "hashtag\n#upreak",
+          "hashtag\n#jobcatalyst",
+          "hashtag\n#joptech"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Upreak Job Posts\nUpreak Job Posts\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/upreak-job-posts-06669a344?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFY-JM4B_Evw2h2rzhoDz11h_Oflf8XKNdk",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFUET9ggs_l_w/profile-displayphoto-shrink_100_100/B56ZQmsi0nGsAU-/0/1735815999212?e=1744848000&v=beta&t=rTh-TMJVppc9kweJrC2r3_nHOixQQ8j3SBwDrCdX23Q",
+        "authorHeadline": "Talent Management Solutions\nTalent Management Solutions"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "From LEAP 2025 in Riyadh to STEP 2025 in Dubai, the global job market is evolving faster than ever. Mass layoffs, AI-driven hiring, and decentralized workforces—are we prepared for what’s next?\n\n\nhashtag\n#GiginAI \nhashtag\n#STEP2025 \nhashtag\n#FutureOfWork \nhashtag\n#TechInnovation \nhashtag\n#DubaiTech \nhashtag\n#StartupEcosystem \nhashtag\n#AIRecruitment \nhashtag\n#TalentMarketplace \nhashtag\n#DigitalTransformation \nhashtag\n#WorkforceRevolution \nhashtag\n#GlobalTalent \nhashtag\n#NeonFuturism \nhashtag\n#Networking \nhashtag\n#TechConference \nhashtag\n#StartupIndia \nhashtag\n#UAEStartup \nhashtag\n#JobTech \nhashtag\n#FutureOfJobs \nhashtag\n#RemoteWork \nhashtag\n#HybridWork \nhashtag\n#GigEconomy \nhashtag\n#AIJobs \nhashtag\n#HRTech \nhashtag\n#SmartHiring \nhashtag\n#WorkFromAnywhere \nhashtag\n#CareerOpportunities \nhashtag\n#DubaiBusiness \nhashtag\n#IndianStartups \nhashtag\n#Entrepreneurship \nhashtag\n#VCFunding \nhashtag\n#TechDisruption \nhashtag\n#WorkforceSolutions \nhashtag\n#EmploymentTrends \nhashtag\n#InnovationHub \nhashtag\n#SmartCities \nhashtag\n#TechLeaders \nhashtag\n#AIRevolution \nhashtag\n#WorkLifeBalance \nhashtag\n#FutureReady",
+        "postUrl": "https://www.linkedin.com/pulse/giginais-global-journey-from-riyadhs-leap-dubais-step-gigin-ai-zuovc?trackingId=08zfQhg1Td2o9V9k4C6pxQ%3D%3D",
+        "postTimestamp": "9h • \n \n9 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQGNjxMLuMi6Qw/article-cover_image-shrink_423_752/B56ZT9.bbnGQAU-/0/1739427789701?e=1744848000&v=beta&t=PH8Bdrjgk_JbdUftAhzTHKSuFXR2eQB4QabK70aSoIk"
+        ],
+        "likesCount": 3,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#GiginAI",
+          "hashtag\n#STEP2025",
+          "hashtag\n#FutureOfWork",
+          "hashtag\n#TechInnovation",
+          "hashtag\n#DubaiTech",
+          "hashtag\n#StartupEcosystem",
+          "hashtag\n#AIRecruitment",
+          "hashtag\n#TalentMarketplace",
+          "hashtag\n#DigitalTransformation",
+          "hashtag\n#WorkforceRevolution",
+          "hashtag\n#GlobalTalent",
+          "hashtag\n#NeonFuturism",
+          "hashtag\n#Networking",
+          "hashtag\n#TechConference",
+          "hashtag\n#StartupIndia",
+          "hashtag\n#UAEStartup",
+          "hashtag\n#JobTech",
+          "hashtag\n#FutureOfJobs",
+          "hashtag\n#RemoteWork",
+          "hashtag\n#HybridWork",
+          "hashtag\n#GigEconomy",
+          "hashtag\n#AIJobs",
+          "hashtag\n#HRTech",
+          "hashtag\n#SmartHiring",
+          "hashtag\n#WorkFromAnywhere",
+          "hashtag\n#CareerOpportunities",
+          "hashtag\n#DubaiBusiness",
+          "hashtag\n#IndianStartups",
+          "hashtag\n#Entrepreneurship",
+          "hashtag\n#VCFunding",
+          "hashtag\n#TechDisruption",
+          "hashtag\n#WorkforceSolutions",
+          "hashtag\n#EmploymentTrends",
+          "hashtag\n#InnovationHub",
+          "hashtag\n#SmartCities",
+          "hashtag\n#TechLeaders",
+          "hashtag\n#AIRevolution",
+          "hashtag\n#WorkLifeBalance",
+          "hashtag\n#FutureReady"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Prashanth Kumar\nPrashanth Kumar\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/prashanthk81?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAFtdjsBBCVL9GLcEezQy_nA2oM1XrvOsLk",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEVIS1r9TxCPg/profile-displayphoto-shrink_100_100/B56ZOlu362GkAY-/0/1733652350500?e=1744848000&v=beta&t=jfyDqFSvN_5N_TqwS-aX91xalrYWYoKAzt25PWqiRjM",
+        "authorHeadline": "Gigin.ai l Dealshare l Udaan l Licious l Flipkart l Teamlease l Adecco\nGigin.ai l Dealshare l Udaan l Licious l Flipkart l Teamlease l Adecco"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "𝗧𝗵𝗶𝘀 𝗽𝗼𝘀𝘁 𝗺𝗮𝘆 𝗯𝗲 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗶𝗻𝗴 𝘁𝗼 𝘆𝗼𝘂 𝗶𝗳 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗽𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝘁𝗼 𝗵𝗶𝗿𝗲 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 𝗶𝗻 𝟮𝟬𝟮𝟱. \n\nWhat is waiting for IT Professionals in 2025? \n\nLong story short: In 2025, the IT job market in Poland will remain competitive, but shifting economic conditions and new employment models will influence recruitment dynamics. Despite global economic slowdown trends, Poland will maintain its position as one of Europe’s key technology hubs.\n\nFor more information check out the slides below!\n\nIn my opinion, companies hiring software engineers in 2025 will be looking at the emphasis on candidates’ experience and business acumen, so the hiring bar will be on a high level. Thus, expectations of candidates will be even more complex than last year. \n\nWhat do you think? Do you agree with my predictions? \n\n\nShare your thoughts in the comments or if you would like to discuss any of my predictions don’t hesitate to drop me a message!",
+        "postUrl": "",
+        "postTimestamp": "2h • \n \n2 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/embeds/native-document.html?li_theme=light"
+        ],
+        "likesCount": 15,
+        "commentsCount": 0,
+        "repostCount": 1,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Bartek Toporkiewicz\nBartek Toporkiewicz\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/toporkiewicz?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABxyU0BsHkQwqZ65zUVTLjFsFCzoQDYw5Y",
+        "profilePictureUrl": "",
+        "authorHeadline": "🤝 Connecting the Best Polish Software Developers with Global Businesses | Establishing Tech Hubs in Poland | CEO at itMatch\n🤝 Connecting the Best Polish Software Developers with Global Businesses | Establishing Tech Hubs in Poland | CEO at itMatch"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 Hiring is Changing FAST—Are You Ready?\n\nThe job market isn’t what it was a year ago. Degrees? Becoming optional. AI? Screening resumes in seconds. Skills? Matter more than ever.\n\n💡 If you’re job hunting in 2025, here’s what you NEED to know:\n\n✅ Companies are shifting to skills-based hiring—what you can DO matters more than what’s on paper.\n✅ AI is scanning resumes before humans do—customize your applications to beat the bots.\n✅ Networking is still KING—hidden jobs exist, but only if you know the right people.\n\n🔥 Biggest tip? Stay adaptable. Learn, grow, and own your career story—because the job market isn’t waiting for anyone.\n\n👇 What’s the biggest change YOU’VE noticed in hiring lately? Let’s discuss in the comments!\n\n\nhashtag\n#HR \nhashtag\n#Recruitment #2025",
+        "postUrl": "",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 4,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": ["hashtag\n#HR", "hashtag\n#Recruitment"],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Chiraiya Inamdar\nChiraiya Inamdar\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/chiraiya-inamdar-1a069b253?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAD6SXEgBdIcB9FjEjaJFgwgievnla3X6RdQ",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQGANLsZCsmlLQ/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1738933601775?e=1740067200&v=beta&t=akCm_eEJ4x-wXfjwX_JmmLDDP7cmW0SaxQ0jffm7GVY",
+        "authorHeadline": "Mobilizer | Eduvacancy | Connecting Talent With Opportunity\nMobilizer | Eduvacancy | Connecting Talent With Opportunity"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 India's 2025 Job Market: IT, Art & Automotive\n🔑 Key Takeaway:\n India's IT, art, and automotive sectors offer high-paying roles for skilled professionals.\n📊 Industry Insights:\nIT Services (Application Development):\nRoles: Software developers, app architects\nSalaries: ₹10–₹35 LPA\nArt & Photography (Art):\nRoles: Creative directors, digital artists\nSalaries: ₹6–₹25 LPA\nAutomotive (Auto & Truck Manufacturers):\nRoles: Automotive engineers, quality specialists\nSalaries: ₹8–₹30 LPA\n🔥 In-Demand Skills:\nMobile app development\nDigital art tools\nAutomotive simulation\n🚀 Career Tip:\n Upskill with certifications and online courses to stay ahead.\n\nhashtag\n#JobTrends2025 \nhashtag\n#ITServices \nhashtag\n#ArtCareers \nhashtag\n#AutomotiveJobs \nhashtag\n#JobTrends2025 \nhashtag\n#CareerGrowth \nhashtag\n#AgricultureJobs \nhashtag\n#FashionIndustry \nhashtag\n#JobcatalystsInsights \nhashtag\n#UpreakInsights \nhashtag\n#jobs \nhashtag\n#upreak \nhashtag\n#jobcatalyst \nhashtag\n#joptech",
+        "postUrl": "",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#JobTrends2025",
+          "hashtag\n#ITServices",
+          "hashtag\n#ArtCareers",
+          "hashtag\n#AutomotiveJobs",
+          "hashtag\n#JobTrends2025",
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#AgricultureJobs",
+          "hashtag\n#FashionIndustry",
+          "hashtag\n#JobcatalystsInsights",
+          "hashtag\n#UpreakInsights",
+          "hashtag\n#jobs",
+          "hashtag\n#upreak",
+          "hashtag\n#jobcatalyst",
+          "hashtag\n#joptech"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Fouziya V\nFouziya V\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/fouziya-v-112ab0343?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFYgI54Ba7P7Uqriv7Awewxd0ZMMH4rhQPI",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEeLdv-1N702Q/profile-displayphoto-shrink_100_100/B56ZQbpGtuH0AU-/0/1735630548648?e=1744848000&v=beta&t=A0taj1zfM24JESYUYTREWkY2Nz_qPuEPz6A83HfuD68",
+        "authorHeadline": "Digital Marketing Executive at Upreak\nDigital Marketing Executive at Upreak"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "ملخص وظائف السعودية لمختلف الجنسيات في تخصصات ومؤهلات مختلفة للجنسين اليوم 12-2-2025\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n\n\nhashtag\n#recruitment \nhashtag\n#وظائف \nhashtag\n#jobs \nhashtag\n#recruiting \nhashtag\n#توظيف \nhashtag\n#careers \nhashtag\n#hr \nhashtag\n#السعودية \nhashtag\n#job \nhashtag\n#search \nhashtag\n#وظائف_الشرقية \nhashtag\n#وظيفة_شاغرة \nhashtag\n#التوظيف \nhashtag\n#وظيفه \nhashtag\n#وظائف_اليوم \nhashtag\n#وظائف_الرياض \nhashtag\n#hunting \nhashtag\n#توطين \nhashtag\n#وظائف_إدارية \nhashtag\n#الرياض \nhashtag\n#طاقات \nhashtag\n#saudi \nhashtag\n#ساعد_تتساعد \nhashtag\n#riyadh \nhashtag\n#الموارد_البشرية \nhashtag\n#بنك_الرياض \nhashtag\n#جدة \nhashtag\n#عاجل \nhashtag\n#الامارات \nhashtag\n#عمان \nhashtag\n#هام \nhashtag\n#humanresources \nhashtag\n#قطر \nhashtag\n#خبر \nhashtag\n#وظائف_السعودية \nhashtag\n#الدمام \nhashtag\n#وظائف_عمان \nhashtag\n#كلمني_عربي \nhashtag\n#السلطنة \nhashtag\n#humanresources \nhashtag\n#وظيفة \nhashtag\n#اللغة \nhashtag\n#qatar \nhashtag\n#oil \nhashtag\n#work \nhashtag\n#banque \nhashtag\n#petroleum \nhashtag\n#people \nhashtag\n#الطب \nhashtag\n#energy \nhashtag\n#الطيران \nhashtag\n#amazon \nhashtag\n#development \nhashtag\n#الصحة \nhashtag\n#markets \nhashtag\n#hotels \nhashtag\n#accorhotels \nhashtag\n#hospital \nhashtag\n#الأبحاث \nhashtag\n#egypt \nhashtag\n#airlines \nhashtag\n#oilandgas \nhashtag\n#insurance \nhashtag\n#microsoft \nhashtag\n#oilgas \nhashtag\n#university \nhashtag\n#power \nhashtag\n#pwc \nhashtag\n#middleeast \nhashtag\n#bank \nhashtag\n#canada \nhashtag\n#deloitte \nhashtag\n#medicine \nhashtag\n#aviation \nhashtag\n#الطاقة \nhashtag\n#health \nhashtag\n#education \nhashtag\n#التسويق \nhashtag\n#إدارة \nhashtag\n#الهندسة \nhashtag\n#team \nhashtag\n#investment \nhashtag\n#engineer \nhashtag\n#projects \nhashtag\n#devops \nhashtag\n#remotework \nhashtag\n#engineers \nhashtag\n#azure \nhashtag\n#design \nhashtag\n#india \nhashtag\n#management \nhashtag\n#digital \nhashtag\n#opportunities \nhashtag\n#engineering \nhashtag\n#culture \nhashtag\n#china \nhashtag\n#microservices \nhashtag\n#infrastructure \nhashtag\n#agile \nhashtag\n#java \nhashtag\n#kubernetes \nhashtag\n#software \nhashtag\n#cloud \nhashtag\n#python \nhashtag\n#network \nhashtag\n#experience \nhashtag\n#linux \nhashtag\n#docker \nhashtag\n#bigdata \nhashtag\n#softwaredevelopment \nhashtag\n#programming \nhashtag\n#sql \nhashtag\n#reference\n\nhashtag\n#Insurance \nhashtag\n#Gas_Electricity \nhashtag\n#Mortgage \nhashtag\n#Attorney \nhashtag\n#Claim \nhashtag\n#Loans \nhashtag\n#Donate \nhashtag\n#Lawyer \nhashtag\n#Conference_Call \nhashtag\n#Recovery \nhashtag\n#Degree \nhashtag\n#Treatment \nhashtag\n#Credit \nhashtag\n#Software \nhashtag\n#Classes \nhashtag\n#Rehab \nhashtag\n#Trading \nhashtag\n#Hosting \nhashtag\n#Transfer \nhashtag\n#Cord_Blood",
+        "postUrl": "https://www.linkedin.com/pulse/%25D9%2585%25D9%2584%25D8%25AE%25D8%25B5-%25D9%2588%25D8%25B8%25D8%25A7%25D8%25A6%25D9%2581-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D9%2584%25D9%2585%25D8%25AE%25D8%25AA%25D9%2584%25D9%2581-%25D8%25A7%25D9%2584%25D8%25AC%25D9%2586%25D8%25B3%25D9%258A%25D8%25A7%25D8%25AA-%25D9%2581%25D9%258A-%25D8%25AA%25D8%25AE%25D8%25B5%25D8%25B5%25D8%25A7%25D8%25AA-%25D9%2588%25D9%2585%25D8%25A4%25D9%2587%25D9%2584%25D8%25A7%25D8%25AA-%25D9%2585%25D8%25AE%25D8%25AA%25D9%2584%25D9%2581%25D8%25A9-s1zee?trackingId=dgO76%2FdFRGOBf9LlvXzPJw%3D%3D",
+        "postTimestamp": "21h • \n \n21 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D4E12AQFtPM1mE7fijg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1739383831860?e=1744848000&v=beta&t=z8lzU7iShEk4CvhLZoSd5tsyNCb1RLH3-Q1LNNUD9EY"
+        ],
+        "likesCount": 32,
+        "commentsCount": 30,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#recruitment",
+          "hashtag\n#وظائف",
+          "hashtag\n#jobs",
+          "hashtag\n#recruiting",
+          "hashtag\n#توظيف",
+          "hashtag\n#careers",
+          "hashtag\n#hr",
+          "hashtag\n#السعودية",
+          "hashtag\n#job",
+          "hashtag\n#search",
+          "hashtag\n#وظائف_الشرقية",
+          "hashtag\n#وظيفة_شاغرة",
+          "hashtag\n#التوظيف",
+          "hashtag\n#وظيفه",
+          "hashtag\n#وظائف_اليوم",
+          "hashtag\n#وظائف_الرياض",
+          "hashtag\n#hunting",
+          "hashtag\n#توطين",
+          "hashtag\n#وظائف_إدارية",
+          "hashtag\n#الرياض",
+          "hashtag\n#طاقات",
+          "hashtag\n#saudi",
+          "hashtag\n#ساعد_تتساعد",
+          "hashtag\n#riyadh",
+          "hashtag\n#الموارد_البشرية",
+          "hashtag\n#بنك_الرياض",
+          "hashtag\n#جدة",
+          "hashtag\n#عاجل",
+          "hashtag\n#الامارات",
+          "hashtag\n#عمان",
+          "hashtag\n#هام",
+          "hashtag\n#humanresources",
+          "hashtag\n#قطر",
+          "hashtag\n#خبر",
+          "hashtag\n#وظائف_السعودية",
+          "hashtag\n#الدمام",
+          "hashtag\n#وظائف_عمان",
+          "hashtag\n#كلمني_عربي",
+          "hashtag\n#السلطنة",
+          "hashtag\n#humanresources",
+          "hashtag\n#وظيفة",
+          "hashtag\n#اللغة",
+          "hashtag\n#qatar",
+          "hashtag\n#oil",
+          "hashtag\n#work",
+          "hashtag\n#banque",
+          "hashtag\n#petroleum",
+          "hashtag\n#people",
+          "hashtag\n#الطب",
+          "hashtag\n#energy",
+          "hashtag\n#الطيران",
+          "hashtag\n#amazon",
+          "hashtag\n#development",
+          "hashtag\n#الصحة",
+          "hashtag\n#markets",
+          "hashtag\n#hotels",
+          "hashtag\n#accorhotels",
+          "hashtag\n#hospital",
+          "hashtag\n#الأبحاث",
+          "hashtag\n#egypt",
+          "hashtag\n#airlines",
+          "hashtag\n#oilandgas",
+          "hashtag\n#insurance",
+          "hashtag\n#microsoft",
+          "hashtag\n#oilgas",
+          "hashtag\n#university",
+          "hashtag\n#power",
+          "hashtag\n#pwc",
+          "hashtag\n#middleeast",
+          "hashtag\n#bank",
+          "hashtag\n#canada",
+          "hashtag\n#deloitte",
+          "hashtag\n#medicine",
+          "hashtag\n#aviation",
+          "hashtag\n#الطاقة",
+          "hashtag\n#health",
+          "hashtag\n#education",
+          "hashtag\n#التسويق",
+          "hashtag\n#إدارة",
+          "hashtag\n#الهندسة",
+          "hashtag\n#team",
+          "hashtag\n#investment",
+          "hashtag\n#engineer",
+          "hashtag\n#projects",
+          "hashtag\n#devops",
+          "hashtag\n#remotework",
+          "hashtag\n#engineers",
+          "hashtag\n#azure",
+          "hashtag\n#design",
+          "hashtag\n#india",
+          "hashtag\n#management",
+          "hashtag\n#digital",
+          "hashtag\n#opportunities",
+          "hashtag\n#engineering",
+          "hashtag\n#culture",
+          "hashtag\n#china",
+          "hashtag\n#microservices",
+          "hashtag\n#infrastructure",
+          "hashtag\n#agile",
+          "hashtag\n#java",
+          "hashtag\n#kubernetes",
+          "hashtag\n#software",
+          "hashtag\n#cloud",
+          "hashtag\n#python",
+          "hashtag\n#network",
+          "hashtag\n#experience",
+          "hashtag\n#linux",
+          "hashtag\n#docker",
+          "hashtag\n#bigdata",
+          "hashtag\n#softwaredevelopment",
+          "hashtag\n#programming",
+          "hashtag\n#sql",
+          "hashtag\n#reference",
+          "hashtag\n#Insurance",
+          "hashtag\n#Gas_Electricity",
+          "hashtag\n#Mortgage",
+          "hashtag\n#Attorney",
+          "hashtag\n#Claim",
+          "hashtag\n#Loans",
+          "hashtag\n#Donate",
+          "hashtag\n#Lawyer",
+          "hashtag\n#Conference_Call",
+          "hashtag\n#Recovery",
+          "hashtag\n#Degree",
+          "hashtag\n#Treatment",
+          "hashtag\n#Credit",
+          "hashtag\n#Software",
+          "hashtag\n#Classes",
+          "hashtag\n#Rehab",
+          "hashtag\n#Trading",
+          "hashtag\n#Hosting",
+          "hashtag\n#Transfer",
+          "hashtag\n#Cord_Blood"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "وظائف السعودية - saudi jobs\nوظائف السعودية - saudi jobs",
+        "authorUrl": "https://www.linkedin.com/company/%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHT1HukrBxGoA/company-logo_100_100/company-logo_100_100/0/1666706170658/__logo?e=1747267200&v=beta&t=7XHbLanGgu7SLRlVfddVV6MZGHXeMTmahVGXoF-242A",
+        "authorHeadline": "255,357 followers\n255,357 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "𝗧𝗵𝗲 𝗝𝗼𝗯 𝗠𝗮𝗿𝗸𝗲𝘁 𝗶𝘀 𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴—𝗔𝗿𝗲 𝗬𝗼𝘂?​\n\nHiring isn’t what it used to be.​\nResumes alone don’t land jobs anymore.​\nAI is reshaping recruitment.​\nAnd the skills employers value most? They’ve evolved.​\n​\nHere are the top 7 skills dominating the job market in 2025:​\n​\n→ 𝟭. 𝗔𝗜 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝘁𝗲𝗿𝗮𝗰𝘆​\nNot just for tech roles. AI is everywhere.​\nEmployers want professionals who can leverage AI tools to boost productivity.​\n​\n→ 𝟮. 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 & 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗕𝗿𝗮𝗻𝗱𝗶𝗻𝗴​\nRecruiters aren’t just scanning CVs.​\nThey’re searching LinkedIn, industry events, and online thought leaders.​\nIf you’re invisible, you’re missing out.​\n​\n→ 𝟯. 𝗣𝗿𝗼𝗯𝗹𝗲𝗺-𝗦𝗼𝗹𝘃𝗶𝗻𝗴 & 𝗖𝗿𝗶𝘁𝗶𝗰𝗮𝗹 𝗧𝗵𝗶𝗻𝗸𝗶𝗻𝗴​\nWith rapid changes in industries, employers value those who adapt, analyze, and solve challenges efficiently.​\n​\n→ 𝟰. 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗦𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴​\nCan you explain complex ideas simply?​\nCan you sell your value in a conversation?​\nStrong communicators stand out—online and in interviews.​\n​\n→ 𝟱. 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻-𝗠𝗮𝗸𝗶𝗻𝗴​\nEvery industry is driven by data.​\nKnowing how to interpret and use it is a game-changer.​\n​\n→ 𝟲. 𝗔𝗱𝗮𝗽𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆 & 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴​\nThe market is evolving faster than ever.​\nThose who upskill and embrace change will stay ahead.​\n​\n→ 𝟳. 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 & 𝗜𝗻𝗳𝗹𝘂𝗲𝗻𝗰𝗲 (𝗘𝘃𝗲𝗻 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗮 𝗧𝗶𝘁𝗹𝗲)​\nIt’s not just about technical skills.​\nEmployers want leaders—people who take initiative, drive projects, and inspire teams.​\n​\n💡 𝗪𝗵𝗮𝘁 𝗱𝗼𝗲𝘀 𝘁𝗵𝗶𝘀 𝗺𝗲𝗮𝗻 𝗳𝗼𝗿 𝘆𝗼𝘂?​\n→ If you’re relying only on experience, you’re falling behind.​\n→ If you’re not actively learning, you’re limiting your opportunities.​\n→ If you’re not visible online, you’re losing to those who are.​\n​\n👉 Which of these skills are YOU focusing on in 2025?​\nDrop a comment, I’d love to hear your thoughts!",
+        "postUrl": "",
+        "postTimestamp": "10h • \n \n10 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/embeds/native-document.html?li_theme=light"
+        ],
+        "likesCount": 16,
+        "commentsCount": 5,
+        "repostCount": 1,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Haitham Alsalman\nHaitham Alsalman\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/haithamalsalman?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA7omGYBkDCR5kUTK9_D8HLdZDCsp8HlDmk",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHZ-BoJy42wMQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1685764686560?e=1744848000&v=beta&t=yVzIdqhcneJNQBdXMWLmeHwVsPvSLeVWBLWys6kSG5M",
+        "authorHeadline": "Unlock hidden job market opportunities in the UAE and GCC leveraging AI | Founder | Networking & Personal Branding Consultant for executives and business owners | Speaker 📢 Career and Business\nUnlock hidden job market opportunities in the UAE and GCC leveraging AI | Founder | Networking & Personal Branding Consultant for executives and business owners | Speaker 📢 Career and Business"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Navigating the Job Market as a Software Engineer in 2025 🚀\n\nThe tech job market is always evolving, and as software engineers, we need to adapt just as fast as the technologies we work with. Whether you’re actively job searching or just keeping an eye out for opportunities, here are some key things I’ve learned:\n\n🔹 Skills Matter, But So Do Stories – Companies don’t just look for technical skills; they value how you solve problems, collaborate, and adapt. Being able to communicate your impact is just as important as your coding abilities.\n\n🔹 Networking Opens Doors – A single conversation can lead to unexpected opportunities. Engaging with the tech community, attending meetups, and staying active on LinkedIn can make a big difference.\n\n🔹 Tech Stacks Evolve—So Should We – Staying updated with emerging technologies (AI, cloud, DevOps, etc.) helps keep us relevant in a competitive market. Continuous learning is key!\n\n🔹 Job Searching is a Marathon, Not a Sprint – Rejections are tough, but each one is a step toward the right opportunity. Persistence and a growth mindset make all the difference.\n\nI’d love to hear from others—what’s been your biggest learning from job searching in the tech industry? Let’s share insights and help each other grow!\n\n\nhashtag\n#JobSearch \nhashtag\n#SoftwareEngineering \nhashtag\n#CareerGrowth \nhashtag\n#TechIndustry \nhashtag\n#Networking",
+        "postUrl": "",
+        "postTimestamp": "11h • \n \n11 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 3,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#JobSearch",
+          "hashtag\n#SoftwareEngineering",
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#TechIndustry",
+          "hashtag\n#Networking"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Mansi Gaur\nMansi Gaur\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/mansi-gaur-35995715a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACY6UjUBx-iSAl8kw6RRfcD7QyP8b0QAjzo",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFtqlPCy1hesg/profile-displayphoto-shrink_100_100/B4DZRlkhrjG4AY-/0/1736870862493?e=1744848000&v=beta&t=OFyGOx8UETDt8nNePALmViO9n3rUgQhMcSyQdqPQkns",
+        "authorHeadline": "Full-Stack | Java Developer | Microservices | Cloud | OpenShift | API Development | Security & Performance Optimization\nFull-Stack | Java Developer | Microservices | Cloud | OpenShift | API Development | Security & Performance Optimization"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "🚀 IT Job Market Trends 2025: What Freshers Must Know!\n\n\nThe demand for job-ready engineers is at an all-time high! But what skills will make you stand out in 2025? Here’s what top companies are hiring for:\n\n🔹 Full-Stack Development – MERN, Java, Python 🔥\n🔹 Cloud Computing – AWS, Azure, Google Cloud ☁️\n🔹 AI & Data Science – Machine Learning, Big Data 📊\n🔹 Cybersecurity – Ethical Hacking, Security Analysis 🔐\n🔹 DevOps & Automation – CI/CD, Kubernetes, Docker ⚙️\n\n🎯 Freshers, are you ready for the future? \nGain insights, job updates & career tips in our exclusive Telegram community!\n\n🔗 Join Now! 👉 https://t.me/careersprint\n\n\nhashtag\n#ITJobs2025 \nhashtag\n#FreshersHiring \nhashtag\n#TechCareers \nhashtag\n#JobMarketTrends \nhashtag\n#EngineeringJobs \nhashtag\n#CareerGrowth \nhashtag\n#HiringFreshers \nhashtag\n#AmagleSoftware \nhashtag\n#IndiaJobs",
+        "postUrl": "",
+        "postTimestamp": "4h • \n \n4 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 2,
+        "commentsCount": 0,
+        "repostCount": 1,
+        "hashtags": [
+          "hashtag\n#ITJobs2025",
+          "hashtag\n#FreshersHiring",
+          "hashtag\n#TechCareers",
+          "hashtag\n#JobMarketTrends",
+          "hashtag\n#EngineeringJobs",
+          "hashtag\n#CareerGrowth",
+          "hashtag\n#HiringFreshers",
+          "hashtag\n#AmagleSoftware",
+          "hashtag\n#IndiaJobs"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Amagle Software\nAmagle Software",
+        "authorUrl": "https://www.linkedin.com/company/amaglesoftware/posts",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D560BAQEzYTupr-uxbA/company-logo_100_100/company-logo_100_100/0/1733394529668/amagle_software_private_ltd_logo?e=1747267200&v=beta&t=0-Ed8VYTIhRGJbElp-6mrDJlavLlhDWNx9OnJl8N9ls",
+        "authorHeadline": "52 followers\n52 followers"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Insights into How Recruiters Can Best Support Travel Nurses in the 2025 Job Market",
+        "postUrl": "https://www.linkedin.com/pulse/how-recruiters-can-best-support-travel-nurses-2025-job-devardekar-ggvjc?trackingId=4mzZCDtdQBC%2FGtdntJsslA%3D%3D",
+        "postTimestamp": "16h • \n \n16 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [
+          "https://media.licdn.com/dms/image/v2/D5612AQG2PuDMiQ1iKA/article-cover_image-shrink_423_752/B56ZT8ZW6WHEAU-/0/1739401294278?e=1744848000&v=beta&t=cbXZBwEkyB4v8hBn-5SBYKZdKMpMXdkDSTauK94MFo8"
+        ],
+        "likesCount": 7,
+        "commentsCount": 1,
+        "repostCount": 0,
+        "hashtags": [],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Sourabh Devardekar\nSourabh Devardekar\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/sourabhdevardekar?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACQXA-gBmTjKxeync5_2oaNQ6EOjCGy9pzg",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFv40rEolsftQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1682963919441?e=1744848000&v=beta&t=HsEuzTfnni2i5WPcNhDw_jlo0YiMoxwwOwBkkSRm-6g",
+        "authorHeadline": "Follow for Travel Nurse Recruitment content.\nFollow for Travel Nurse Recruitment content."
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "The Job Market in 2025\nWhat Employers & Job Seekers Need to Know\n\nThe job market continues to evolve, and both employers and job seekers are feeling the impact. While some industries are experiencing a hiring slowdown, others are competing for top talent in an increasingly selective market.\n\n✅ For Employers: Finding the right candidate is tougher than ever. Candidates have more options, expectations are shifting, and a slow hiring process can mean losing top talent to competitors. If your team is struggling to fill roles, it’s time to rethink your hiring strategy because the best candidates aren’t waiting around.\n\n✅ For Job Seekers: Despite economic uncertainty, opportunities are out there. But securing the right job requires more than just submitting applications. A strong resume, the right connections, and a strategic approach can make all the difference.\n\nAt Williams Recruiting Services, we bridge the gap between great companies and top-tier talent. As a contingent recruiter, I only get paid when I successfully place a candidate meaning my focus is on results, not just resumes.\n\nIf you’re an employer looking to streamline your hiring process or a professional ready to land your next role, let’s connect. \n\nVisit www.williamsrs.com or send me a message to discuss how I can help 904-800-8390\n\n\nhashtag\n#WilliamsRecruitingServices \nhashtag\n#Hiring \nhashtag\n#JobMarket2025 \nhashtag\n#Recruiting \nhashtag\n#JobSearch \nhashtag\n#TalentAcquisition",
+        "postUrl": "",
+        "postTimestamp": "23h • \n \n23 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 0,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#WilliamsRecruitingServices",
+          "hashtag\n#Hiring",
+          "hashtag\n#JobMarket2025",
+          "hashtag\n#Recruiting",
+          "hashtag\n#JobSearch",
+          "hashtag\n#TalentAcquisition"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Johnathon Williams\nJohnathon Williams\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/johnathon-williams-881583a5?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABZU7SEBg9mq3kSNm-dSfdAjXFya94N-lnI",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGeWxMy8iqhgw/profile-displayphoto-shrink_100_100/B4EZT7DX4uGYAU-/0/1739378755249?e=1744848000&v=beta&t=tmkIKtQ22xGLslFy4VlLutRV7q1dkPR5PvZ2_Q2aOJg",
+        "authorHeadline": "Focused on service, driven by results—your trusted talent partner\nFocused on service, driven by results—your trusted talent partner"
+      }
+    },
+    {
+      "postDetails": {
+        "postContent": "Big Tech vs. Startups: Where Should Freshers Go in 2025?\nJob stability? It’s a thing of the past.\n\nIn 2025, major companies like Meta, Infosys, Apple, Microsoft, Salesforce, and Tesla are laying off employees. Even the biggest names in the industry are hiring in bulk—only to fire in bulk later. \n\nBig Tech Companies—Not as Stable as They Seem\nLarge corporations expand one quarter and downsize the next.\nSome are even delaying fresher onboarding by one or two years!\nLayoffs are becoming the norm, and job security is no longer guaranteed.\n\nStartups—More Learning, More Uncertainty\nStartups don’t offer stability, but they provide hands-on experience.\nYou’ll take on diverse roles, gain business insights, and develop faster.\nThe catch? Success depends on whether the startup survives.\n\nWhat Should Students Do in 2025?\n✅ Don’t rely solely on campus placements.\n A degree no longer guarantees a job. The system is changing.\n✅ Start gaining experience early.\n Internships, freelancing, and open-source projects can give you an edge before graduation.\n✅ Focus on skills, not just resumes.\n With AI and automation reshaping industries, companies value problem solvers over textbook knowledge.\n✅ Stay adaptable.\n The 9-to-5 security bubble has burst. Instead of chasing big names, look for opportunities that foster long-term growth.\n\nJob security is an illusion. Big tech is downsizing, and startups are unpredictable.\n\nThe best investment? Yourself. The more adaptable and skilled you are, the less market fluctuations will impact you.\n💡 What’s your take? Is startup experience better than waiting for a big tech job?\n\n\nhashtag\n#hr \nhashtag\n#freshers2025 \nhashtag\n#mncjobs \nhashtag\n#jobs2025 \nhashtag\n#recruitment \nhashtag\n#freshers \nhashtag\n#hiring",
+        "postUrl": "",
+        "postTimestamp": "9h • Edited • \n \n9 hours ago",
+        "postType": "text-only",
+        "mediaUrls": [],
+        "likesCount": 6,
+        "commentsCount": 0,
+        "repostCount": 0,
+        "hashtags": [
+          "hashtag\n#hr",
+          "hashtag\n#freshers2025",
+          "hashtag\n#mncjobs",
+          "hashtag\n#jobs2025",
+          "hashtag\n#recruitment",
+          "hashtag\n#freshers",
+          "hashtag\n#hiring"
+        ],
+        "mentions": []
+      },
+      "authorDetails": {
+        "authorName": "Deepa B Rade\nDeepa B Rade\n • 3rd+\n • 3rd+",
+        "authorUrl": "https://www.linkedin.com/in/deepa-b-rade-944a8a21?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAASb2MQBlfdS3NVSXenEEHJ9nilqTHVA1SU",
+        "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQH3MI2y2iAV5g/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1739164290992?e=1740067200&v=beta&t=F7m4Ke2CFnUQ5RzhB3UbJp-Q1JyaJzXlKrUYX1NTbEY",
+        "authorHeadline": "\"Seasoned HR Professional: Cultivating Talent, Driving Growth, and Fostering Excellence\" @Dalnex | Industrial IoT | Industry 4.0 | Factory Digitization @LazyNest | Home Automation\n\"Seasoned HR Professional: Cultivating Talent, Driving Growth, and Fostering Excellence\" @Dalnex | Industrial IoT | Industry 4.0 | Factory Digitization @LazyNest | Home Automation"
+      }
+    }
+  ]
+}
